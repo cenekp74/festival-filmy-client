@@ -1,6 +1,7 @@
 import requests
 import json
 from datetime import datetime
+import time
 
 class App:
     def __init__(self) -> None:
@@ -12,7 +13,7 @@ class App:
 
     def write_config(self):
         with open('config.json', 'w') as f:
-            self.config = json.dump(self.config, f)
+            json.dump(self.config, f, indent=4)
 
     def log(self, msg):
         with open('log.txt', 'a') as f:
@@ -35,19 +36,40 @@ class App:
             if response.status_code != 200:
                 self.log('Fetching progam failed - server error')
                 return False
-            self.program = response.json()
+            self.config["program"] = response.json()
+            self.write_config()
             return True
         except:
             self.log('Fetching program failed - server offline')
             return False
         
+    def create_schledule(self) -> bool:
+        if not self.config["program"]: return False
+        schledule = {}
+        for day in ['1', '2', '3']:
+            schledule[day] = []
+            for film in self.config["program"][day]:
+                schledule[day].append((film["time_from"], film["filename"]))
+            schledule[day] = sorted(schledule[day], key=lambda x: x[0])
+        self.config["schledule"] = schledule
+        self.write_config()
+        self.send_msg('Schledule created')
+        
     def start(self):
         self.log('START')
         self.send_msg('Starting')
-        self.get_program()
-        self.send_msg('Fetched program')
-        print(self.program)
-
+        if self.get_program():
+            self.send_msg('Fetched program')
+        else:
+            if not self.config["schledule"] and not self.config["program"]:
+                self.log('No progam or schledule - restarting in 10s')
+                time.sleep(10)
+                self.start()
+                quit()
+            else:
+                self.log('Continuing using locally saved program/schledule')
+        self.create_schledule()
+        
 if __name__ == '__main__':
     app = App()
     app.start()

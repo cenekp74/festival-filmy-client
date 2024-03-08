@@ -1,7 +1,86 @@
 {
-    "room": "I",
+    "room": "V",
     "current_day": 0,
-    "server":"http://127.0.0.1:9864",
+    "server": "http://127.0.0.1:9864",
     "filenames": [],
-    "schledule":{}
+    "program": {
+        "1": [
+            {
+                "day": 1,
+                "filename": null,
+                "id": 7,
+                "item_type": "film",
+                "language": "cz",
+                "link": "lol",
+                "name": "Lorem ipsum film",
+                "room": "V",
+                "time_from": "08:17",
+                "time_to": "09:04",
+                "uid": "f_7"
+            },
+            {
+                "day": 1,
+                "filename": "",
+                "id": 11,
+                "item_type": "film",
+                "language": "cz",
+                "link": "asdf",
+                "name": "filmm",
+                "room": "V",
+                "time_from": "12:30",
+                "time_to": "13:30",
+                "uid": "f_11"
+            },
+            {
+                "day": 1,
+                "filename": "",
+                "id": 12,
+                "item_type": "film",
+                "language": "cz",
+                "link": "asdfasdf",
+                "name": "asdfasdf",
+                "room": "V",
+                "time_from": "09:30",
+                "time_to": "10:30",
+                "uid": "f_12"
+            },
+            {
+                "day": 1,
+                "filename": "",
+                "id": 13,
+                "item_type": "film",
+                "language": "cz",
+                "link": "fasdfasd",
+                "name": "asdfasd",
+                "room": "V",
+                "time_from": "10:40",
+                "time_to": "11:55",
+                "uid": "f_13"
+            }
+        ],
+        "2": [],
+        "3": []
+    },
+    "schledule": {
+        "1": [
+            [
+                "08:17",
+                null
+            ],
+            [
+                "09:30",
+                ""
+            ],
+            [
+                "10:40",
+                ""
+            ],
+            [
+                "12:30",
+                ""
+            ]
+        ],
+        "2": [],
+        "3": []
+    }
 }
