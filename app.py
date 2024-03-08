@@ -10,6 +10,10 @@ class App:
         with open('config.json', 'r') as f:
             self.config = json.load(f)
 
+    def write_config(self):
+        with open('config.json', 'w') as f:
+            self.config = json.dump(self.config, f)
+
     def log(self, msg):
         with open('log.txt', 'a') as f:
             f.write(f'{datetime.now().strftime("%Y.%m.%d %H:%M")}: {msg}\n')
