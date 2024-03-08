@@ -20,3 +20,11 @@
 2024.03.08 21:57: START
 2024.03.08 21:57: START
 2024.03.08 21:58: START
+2024.03.08 22:06: START
+2024.03.08 22:06: START
+2024.03.08 22:06: Sending message (Starting) failed - server offline
+2024.03.08 22:06: Fetching program failed - server offline
+2024.03.08 22:06: Continuing using locally saved program/schledule
+2024.03.08 22:06: Sending message (Schledule created) failed - server offline
+2024.03.08 22:06: Fetching current day failed - server offline
+2024.03.08 22:09: START

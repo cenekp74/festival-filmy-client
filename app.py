@@ -53,7 +53,24 @@ class App:
             schledule[day] = sorted(schledule[day], key=lambda x: x[0])
         self.config["schledule"] = schledule
         self.write_config()
-        self.send_msg('Schledule created')
+        return True
+    
+    def get_current_day(self) -> bool:
+        try:
+            response = requests.get(f'{self.config["server"]}/current_day')
+            if response.status_code != 200:
+                self.log('Fetching current day failed - server error')
+                return False
+            try:
+                self.config["current_day"] = int(response.text)
+            except:
+                self.log('Fetching current day failed - invalid server response')
+                return False
+            self.write_config()
+            return True
+        except:
+            self.log('Fetching current day failed - server offline')
+            return False
         
     def start(self):
         self.log('START')
@@ -68,7 +85,17 @@ class App:
                 quit()
             else:
                 self.log('Continuing using locally saved program/schledule')
-        self.create_schledule()
+        if self.create_schledule():
+            self.send_msg('Schledule created')
+        if self.get_current_day():
+            self.send_msg('Fetched current day')
+        
+        if self.config["current_day"] == 0:
+            pass
+            # DODELAT STAHOVANI SOUBORU
+
+        # DODELAT POUSTENI FILMU
+        
         
 if __name__ == '__main__':
     app = App()
