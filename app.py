@@ -96,7 +96,14 @@ class App:
 
         # DODELAT POUSTENI FILMU
         
-        
-if __name__ == '__main__':
+def main():
     app = App()
-    app.start()
+    try:
+        app.start()
+    except Exception as e:
+        app.log(f'Critical error - {str(e)} - restarting')
+        main()
+        quit()
+
+if __name__ == '__main__':
+    main()
