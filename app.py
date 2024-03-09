@@ -6,6 +6,7 @@ from player import play_video_multiproc
 
 REPORT_TIME_INTERVAL = 60 # client reportuje stav na server kazdych n sekund
 MAX_DELAY_TIME = 5 # flim muze byt spusten s maximalnim spozdenim n minut
+RESTART_DELAY = 120 # po ukonceni se client restartuje za n sekund
 
 def current_time() -> datetime:
     return datetime.now().time()
@@ -155,6 +156,9 @@ def main():
         app.send_msg(f'Critical error - {e.__repr__()} - restarting')
         main()
         quit()
+    app.send_msg(f'Finished running app - starting again in {RESTART_DELAY}s')
+    time.sleep(RESTART_DELAY)
+    main()
 
 if __name__ == '__main__':
     main()

@@ -1862,3 +1862,153 @@
 2024.03.09 21:15: Sending message - Starting playback: zili.mp4
 2024.03.09 21:15: Sending message - Finished playback: zili.mp4
 2024.03.09 21:15: Sending message - Finished all films
+2024.03.09 21:18: START
+2024.03.09 21:18: Sending message - Starting
+2024.03.09 21:18: Sending message - Fetched program
+2024.03.09 21:18: Sending message - Schledule created
+2024.03.09 21:18: Sending message - Fetched current day
+2024.03.09 21:18: Sending message - Continuing with day: 2
+2024.03.09 21:18: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:18: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:18: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:18: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:18: Sending message - Started after 21:00 - skipping zili.mp4
+2024.03.09 21:18: Sending message - Started after 21:10 - skipping zili.mp4
+2024.03.09 21:18: Sending message - Starting playback: zili.mp4 with delay
+2024.03.09 21:18: Sending message - Finished playback: zili.mp4
+2024.03.09 21:18: Sending message - Finished all films
+2024.03.09 22:22: START
+2024.03.09 22:22: Sending message - Starting
+2024.03.09 22:22: Sending message - Fetched program
+2024.03.09 22:22: Sending message - Schledule created
+2024.03.09 22:22: Sending message - Fetched current day
+2024.03.09 22:22: Sending message - Continuing with day: 2
+2024.03.09 22:22: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 22:22: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 22:22: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 22:22: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 22:22: Sending message - Started after 21:00 - skipping zili.mp4
+2024.03.09 22:22: Sending message - Started after 21:10 - skipping zili.mp4
+2024.03.09 22:22: Sending message - Started after 21:15 - skipping zili.mp4
+2024.03.09 22:22: Sending message - Finished all films
+2024.03.09 22:22: Sending message - Finished running app - starting again in 120s
+2024.03.09 22:28: START
+2024.03.09 22:28: Sending message - Starting
+2024.03.09 22:28: Sending message - Fetched program
+2024.03.09 22:28: Sending message - Schledule created
+2024.03.09 22:28: Sending message - Fetched current day
+2024.03.09 22:28: Sending message - Continuing with day: 2
+2024.03.09 22:28: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 22:28: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 22:28: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 22:28: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 22:28: Sending message - Started after 21:00 - skipping zili.mp4
+2024.03.09 22:28: Sending message - Started after 21:10 - skipping zili.mp4
+2024.03.09 22:28: Sending message - Started after 21:15 - skipping zili.mp4
+2024.03.09 22:28: Sending message - Finished all films
+2024.03.09 22:28: Sending message - Finished running app - starting again in 120s
+2024.03.09 22:30: START
+2024.03.09 22:30: Sending message - Starting
+2024.03.09 22:30: Sending message - Fetched program
+2024.03.09 22:30: Sending message - Schledule created
+2024.03.09 22:30: Sending message - Fetched current day
+2024.03.09 22:30: Sending message - Continuing with day: 2
+2024.03.09 22:30: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 22:30: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 22:30: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 22:30: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 22:30: Sending message - Started after 21:00 - skipping zili.mp4
+2024.03.09 22:30: Sending message - Started after 21:10 - skipping zili.mp4
+2024.03.09 22:30: Sending message - Started after 21:15 - skipping zili.mp4
+2024.03.09 22:30: Sending message - Finished all films
+2024.03.09 22:30: Sending message - Finished running app - starting again in 120s
+2024.03.09 22:32: START
+2024.03.09 22:32: Sending message - Starting
+2024.03.09 22:32: Sending message - Fetched program
+2024.03.09 22:32: Sending message - Schledule created
+2024.03.09 22:32: Sending message - Fetched current day
+2024.03.09 22:32: Sending message - Continuing with day: 2
+2024.03.09 22:32: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 22:32: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 22:32: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 22:32: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 22:32: Sending message - Started after 21:00 - skipping zili.mp4
+2024.03.09 22:32: Sending message - Started after 21:10 - skipping zili.mp4
+2024.03.09 22:32: Sending message - Started after 21:15 - skipping zili.mp4
+2024.03.09 22:32: Sending message - Finished all films
+2024.03.09 22:32: Sending message - Finished running app - starting again in 120s
+2024.03.09 22:34: START
+2024.03.09 22:34: Sending message - Starting
+2024.03.09 22:34: Sending message - Fetched program
+2024.03.09 22:34: Sending message - Schledule created
+2024.03.09 22:34: Sending message - Fetched current day
+2024.03.09 22:34: Sending message - Continuing with day: 2
+2024.03.09 22:34: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 22:34: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 22:34: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 22:34: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 22:34: Sending message - Started after 21:00 - skipping zili.mp4
+2024.03.09 22:34: Sending message - Started after 21:10 - skipping zili.mp4
+2024.03.09 22:34: Sending message - Started after 21:15 - skipping zili.mp4
+2024.03.09 22:34: Sending message - Finished all films
+2024.03.09 22:34: Sending message - Finished running app - starting again in 120s
+2024.03.09 22:36: START
+2024.03.09 22:36: Sending message - Starting
+2024.03.09 22:36: Sending message - Fetched program
+2024.03.09 22:36: Sending message - Schledule created
+2024.03.09 22:36: Sending message - Fetched current day
+2024.03.09 22:36: Sending message - Continuing with day: 2
+2024.03.09 22:36: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 22:36: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 22:36: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 22:36: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 22:36: Sending message - Started after 21:00 - skipping zili.mp4
+2024.03.09 22:36: Sending message - Started after 21:10 - skipping zili.mp4
+2024.03.09 22:36: Sending message - Started after 21:15 - skipping zili.mp4
+2024.03.09 22:36: Sending message - Finished all films
+2024.03.09 22:36: Sending message - Finished running app - starting again in 120s
+2024.03.09 22:38: START
+2024.03.09 22:38: Sending message - Starting
+2024.03.09 22:38: Sending message - Fetched program
+2024.03.09 22:38: Sending message - Schledule created
+2024.03.09 22:38: Sending message - Fetched current day
+2024.03.09 22:38: Sending message - Continuing with day: 2
+2024.03.09 22:38: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 22:38: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 22:38: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 22:38: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 22:38: Sending message - Started after 21:00 - skipping zili.mp4
+2024.03.09 22:38: Sending message - Started after 21:10 - skipping zili.mp4
+2024.03.09 22:38: Sending message - Started after 21:15 - skipping zili.mp4
+2024.03.09 22:38: Sending message - Finished all films
+2024.03.09 22:38: Sending message - Finished running app - starting again in 120s
+2024.03.09 22:40: START
+2024.03.09 22:40: Sending message - Starting
+2024.03.09 22:40: Sending message - Fetched program
+2024.03.09 22:40: Sending message - Schledule created
+2024.03.09 22:40: Sending message - Fetched current day
+2024.03.09 22:40: Sending message - Continuing with day: 2
+2024.03.09 22:40: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 22:40: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 22:40: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 22:40: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 22:40: Sending message - Started after 21:00 - skipping zili.mp4
+2024.03.09 22:40: Sending message - Started after 21:10 - skipping zili.mp4
+2024.03.09 22:40: Sending message - Started after 21:15 - skipping zili.mp4
+2024.03.09 22:40: Sending message - Finished all films
+2024.03.09 22:40: Sending message - Finished running app - starting again in 120s
+2024.03.09 22:42: START
+2024.03.09 22:42: Sending message - Starting
+2024.03.09 22:42: Sending message - Fetched program
+2024.03.09 22:42: Sending message - Schledule created
+2024.03.09 22:42: Sending message - Fetched current day
+2024.03.09 22:42: Sending message - Continuing with day: 2
+2024.03.09 22:42: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 22:42: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 22:42: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 22:42: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 22:42: Sending message - Started after 21:00 - skipping zili.mp4
+2024.03.09 22:42: Sending message - Started after 21:10 - skipping zili.mp4
+2024.03.09 22:42: Sending message - Started after 21:15 - skipping zili.mp4
+2024.03.09 22:42: Sending message - Finished all films
+2024.03.09 22:42: Sending message - Finished running app - starting again in 120s
