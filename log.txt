@@ -1,31 +1,1864 @@
-2024.03.08 21:38: START
-2024.03.08 21:38: Sending message (Fetched program) failed - server offline
-2024.03.08 21:40: START
-2024.03.08 21:40: Sending message (Fetched program) failed - server offline
-2024.03.08 21:40: START
-2024.03.08 21:40: Sending message (Fetched program) failed - server offline
-2024.03.08 21:41: START
-2024.03.08 21:42: START
-2024.03.08 21:45: START
-2024.03.08 21:46: START
-2024.03.08 21:50: START
-2024.03.08 21:50: START
-2024.03.08 21:51: START
-2024.03.08 21:51: START
-2024.03.08 21:51: START
-2024.03.08 21:52: START
-2024.03.08 21:54: START
-2024.03.08 21:55: START
-2024.03.08 21:56: START
-2024.03.08 21:57: START
-2024.03.08 21:57: START
-2024.03.08 21:58: START
-2024.03.08 22:06: START
-2024.03.08 22:06: START
-2024.03.08 22:06: Sending message (Starting) failed - server offline
-2024.03.08 22:06: Fetching program failed - server offline
-2024.03.08 22:06: Continuing using locally saved program/schledule
-2024.03.08 22:06: Sending message (Schledule created) failed - server offline
-2024.03.08 22:06: Fetching current day failed - server offline
-2024.03.08 22:09: START
-2024.03.09 00:05: START
+2024.03.09 19:45: START
+2024.03.09 19:45: Sending message - Starting
+2024.03.09 19:45: Sending message - Fetched program
+2024.03.09 19:45: Sending message - Schledule created
+2024.03.09 19:45: Sending message - Fetched current day
+2024.03.09 19:45: Sending message - Continuing with day: 2
+2024.03.09 19:57: START
+2024.03.09 19:57: Sending message - Starting
+2024.03.09 19:57: Sending message - Fetched program
+2024.03.09 19:57: Sending message - Schledule created
+2024.03.09 19:57: Sending message - Fetched current day
+2024.03.09 19:57: Sending message - Continuing with day: 2
+2024.03.09 19:57: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 19:57: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 19:57: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 19:59: START
+2024.03.09 19:59: Sending message - Starting
+2024.03.09 19:59: Sending message - Fetched program
+2024.03.09 19:59: Sending message - Schledule created
+2024.03.09 19:59: Sending message - Fetched current day
+2024.03.09 19:59: Sending message - Continuing with day: 2
+2024.03.09 19:59: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 19:59: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 19:59: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 20:55: START
+2024.03.09 20:55: Sending message - Starting
+2024.03.09 20:55: Sending message - Fetched program
+2024.03.09 20:55: Sending message - Schledule created
+2024.03.09 20:55: Sending message - Fetched current day
+2024.03.09 20:55: Sending message - Continuing with day: 2
+2024.03.09 20:55: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:55: START
+2024.03.09 20:55: Sending message - Starting
+2024.03.09 20:55: Sending message - Fetched program
+2024.03.09 20:55: Sending message - Schledule created
+2024.03.09 20:55: Sending message - Fetched current day
+2024.03.09 20:55: Sending message - Continuing with day: 2
+2024.03.09 20:55: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:55: START
+2024.03.09 20:55: Sending message - Starting
+2024.03.09 20:55: Sending message - Fetched program
+2024.03.09 20:55: Sending message - Schledule created
+2024.03.09 20:55: Sending message - Fetched current day
+2024.03.09 20:55: Sending message - Continuing with day: 2
+2024.03.09 20:55: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:55: START
+2024.03.09 20:55: Sending message - Starting
+2024.03.09 20:55: Sending message - Fetched program
+2024.03.09 20:55: Sending message - Schledule created
+2024.03.09 20:55: Sending message - Fetched current day
+2024.03.09 20:55: Sending message - Continuing with day: 2
+2024.03.09 20:55: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:55: START
+2024.03.09 20:55: Sending message - Starting
+2024.03.09 20:55: Sending message - Fetched program
+2024.03.09 20:55: Sending message - Schledule created
+2024.03.09 20:55: Sending message - Fetched current day
+2024.03.09 20:55: Sending message - Continuing with day: 2
+2024.03.09 20:55: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:55: START
+2024.03.09 20:55: Sending message - Starting
+2024.03.09 20:55: Sending message - Fetched program
+2024.03.09 20:55: Sending message - Schledule created
+2024.03.09 20:55: Sending message - Fetched current day
+2024.03.09 20:55: Sending message - Continuing with day: 2
+2024.03.09 20:55: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:55: START
+2024.03.09 20:55: Sending message - Starting
+2024.03.09 20:55: Sending message - Fetched program
+2024.03.09 20:55: Sending message - Schledule created
+2024.03.09 20:55: Sending message - Fetched current day
+2024.03.09 20:55: Sending message - Continuing with day: 2
+2024.03.09 20:55: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:55: START
+2024.03.09 20:55: Sending message - Starting
+2024.03.09 20:55: Sending message - Fetched program
+2024.03.09 20:55: Sending message - Schledule created
+2024.03.09 20:55: Sending message - Fetched current day
+2024.03.09 20:55: Sending message - Continuing with day: 2
+2024.03.09 20:55: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:55: START
+2024.03.09 20:55: Sending message - Starting
+2024.03.09 20:55: Sending message - Fetched program
+2024.03.09 20:55: Sending message - Schledule created
+2024.03.09 20:55: Sending message - Fetched current day
+2024.03.09 20:55: Sending message - Continuing with day: 2
+2024.03.09 20:55: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:55: START
+2024.03.09 20:55: Sending message - Starting
+2024.03.09 20:55: Sending message - Fetched program
+2024.03.09 20:55: Sending message - Schledule created
+2024.03.09 20:55: Sending message - Fetched current day
+2024.03.09 20:55: Sending message - Continuing with day: 2
+2024.03.09 20:55: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:55: START
+2024.03.09 20:55: Sending message - Starting
+2024.03.09 20:55: Sending message - Fetched program
+2024.03.09 20:55: Sending message - Schledule created
+2024.03.09 20:55: Sending message - Fetched current day
+2024.03.09 20:55: Sending message - Continuing with day: 2
+2024.03.09 20:55: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:55: START
+2024.03.09 20:55: Sending message - Starting
+2024.03.09 20:55: Sending message - Fetched program
+2024.03.09 20:55: Sending message - Schledule created
+2024.03.09 20:55: Sending message - Fetched current day
+2024.03.09 20:55: Sending message - Continuing with day: 2
+2024.03.09 20:55: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:55: START
+2024.03.09 20:55: Sending message - Starting
+2024.03.09 20:55: Sending message - Fetched program
+2024.03.09 20:55: Sending message - Schledule created
+2024.03.09 20:55: Sending message - Fetched current day
+2024.03.09 20:55: Sending message - Continuing with day: 2
+2024.03.09 20:55: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:55: START
+2024.03.09 20:55: Sending message - Starting
+2024.03.09 20:55: Sending message - Fetched program
+2024.03.09 20:55: Sending message - Schledule created
+2024.03.09 20:55: Sending message - Fetched current day
+2024.03.09 20:55: Sending message - Continuing with day: 2
+2024.03.09 20:55: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:55: START
+2024.03.09 20:55: Sending message - Starting
+2024.03.09 20:55: Sending message - Fetched program
+2024.03.09 20:55: Sending message - Schledule created
+2024.03.09 20:55: Sending message - Fetched current day
+2024.03.09 20:55: Sending message - Continuing with day: 2
+2024.03.09 20:55: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:55: START
+2024.03.09 20:55: Sending message - Starting
+2024.03.09 20:55: Sending message - Fetched program
+2024.03.09 20:55: Sending message - Schledule created
+2024.03.09 20:55: Sending message - Fetched current day
+2024.03.09 20:55: Sending message - Continuing with day: 2
+2024.03.09 20:55: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:55: START
+2024.03.09 20:55: Sending message - Starting
+2024.03.09 20:55: Sending message - Fetched program
+2024.03.09 20:55: Sending message - Schledule created
+2024.03.09 20:55: Sending message - Fetched current day
+2024.03.09 20:55: Sending message - Continuing with day: 2
+2024.03.09 20:55: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:55: START
+2024.03.09 20:55: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:56: Sending message - Fetched program
+2024.03.09 20:56: Sending message - Schledule created
+2024.03.09 20:56: Sending message - Fetched current day
+2024.03.09 20:56: Sending message - Continuing with day: 2
+2024.03.09 20:56: Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: Sending message - Critical error - TypeError("unsupported operand type(s) for -: 'datetime.time' and 'datetime.time'") - restarting
+2024.03.09 20:56: START
+2024.03.09 20:56: Sending message - Starting
+2024.03.09 20:58: START
+2024.03.09 20:58: Sending message - Starting
+2024.03.09 20:58: Sending message - Fetched program
+2024.03.09 20:58: Sending message - Schledule created
+2024.03.09 20:58: Sending message - Fetched current day
+2024.03.09 20:58: Sending message - Continuing with day: 2
+2024.03.09 20:58: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 20:58: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 20:58: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 20:58: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:01: START
+2024.03.09 21:01: Sending message - Starting
+2024.03.09 21:01: Sending message - Fetched program
+2024.03.09 21:01: Sending message - Schledule created
+2024.03.09 21:01: Sending message - Fetched current day
+2024.03.09 21:01: Sending message - Continuing with day: 2
+2024.03.09 21:01: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:01: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:01: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:01: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:01: Sending message - Starting playback: zili.mp4 with delay
+2024.03.09 21:01: Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: Sending message - Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: START
+2024.03.09 21:01: Sending message - Starting
+2024.03.09 21:01: Sending message - Fetched program
+2024.03.09 21:01: Sending message - Schledule created
+2024.03.09 21:01: Sending message - Fetched current day
+2024.03.09 21:01: Sending message - Continuing with day: 2
+2024.03.09 21:01: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:01: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:01: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:01: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:01: Sending message - Starting playback: zili.mp4 with delay
+2024.03.09 21:01: Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: Sending message - Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: START
+2024.03.09 21:01: Sending message - Starting
+2024.03.09 21:01: Sending message - Fetched program
+2024.03.09 21:01: Sending message - Schledule created
+2024.03.09 21:01: Sending message - Fetched current day
+2024.03.09 21:01: Sending message - Continuing with day: 2
+2024.03.09 21:01: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:01: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:01: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:01: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:01: Sending message - Starting playback: zili.mp4 with delay
+2024.03.09 21:01: Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: Sending message - Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: START
+2024.03.09 21:01: Sending message - Starting
+2024.03.09 21:01: Sending message - Fetched program
+2024.03.09 21:01: Sending message - Schledule created
+2024.03.09 21:01: Sending message - Fetched current day
+2024.03.09 21:01: Sending message - Continuing with day: 2
+2024.03.09 21:01: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:01: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:01: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:01: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:01: Sending message - Starting playback: zili.mp4 with delay
+2024.03.09 21:01: Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: Sending message - Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: START
+2024.03.09 21:01: Sending message - Starting
+2024.03.09 21:01: Sending message - Fetched program
+2024.03.09 21:01: Sending message - Schledule created
+2024.03.09 21:01: Sending message - Fetched current day
+2024.03.09 21:01: Sending message - Continuing with day: 2
+2024.03.09 21:01: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:01: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:01: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:01: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:01: Sending message - Starting playback: zili.mp4 with delay
+2024.03.09 21:01: Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: Sending message - Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: START
+2024.03.09 21:01: Sending message - Starting
+2024.03.09 21:01: Sending message - Fetched program
+2024.03.09 21:01: Sending message - Schledule created
+2024.03.09 21:01: Sending message - Fetched current day
+2024.03.09 21:01: Sending message - Continuing with day: 2
+2024.03.09 21:01: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:01: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:01: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:01: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:01: Sending message - Starting playback: zili.mp4 with delay
+2024.03.09 21:01: Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: Sending message - Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: START
+2024.03.09 21:01: Sending message - Starting
+2024.03.09 21:01: Sending message - Fetched program
+2024.03.09 21:01: Sending message - Schledule created
+2024.03.09 21:01: Sending message - Fetched current day
+2024.03.09 21:01: Sending message - Continuing with day: 2
+2024.03.09 21:01: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:01: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:01: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:01: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:01: Sending message - Starting playback: zili.mp4 with delay
+2024.03.09 21:01: Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: Sending message - Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: START
+2024.03.09 21:01: Sending message - Starting
+2024.03.09 21:01: Sending message - Fetched program
+2024.03.09 21:01: Sending message - Schledule created
+2024.03.09 21:01: Sending message - Fetched current day
+2024.03.09 21:01: Sending message - Continuing with day: 2
+2024.03.09 21:01: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:01: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:01: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:01: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:01: Sending message - Starting playback: zili.mp4 with delay
+2024.03.09 21:01: Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: Sending message - Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: START
+2024.03.09 21:01: Sending message - Starting
+2024.03.09 21:01: Sending message - Fetched program
+2024.03.09 21:01: Sending message - Schledule created
+2024.03.09 21:01: Sending message - Fetched current day
+2024.03.09 21:01: Sending message - Continuing with day: 2
+2024.03.09 21:01: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:01: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:01: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:01: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:01: Sending message - Starting playback: zili.mp4 with delay
+2024.03.09 21:01: Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: Sending message - Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: START
+2024.03.09 21:01: Sending message - Starting
+2024.03.09 21:01: Sending message - Fetched program
+2024.03.09 21:01: Sending message - Schledule created
+2024.03.09 21:01: Sending message - Fetched current day
+2024.03.09 21:01: Sending message - Continuing with day: 2
+2024.03.09 21:01: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:01: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:01: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:01: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:01: Sending message - Starting playback: zili.mp4 with delay
+2024.03.09 21:01: Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: Sending message - Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: START
+2024.03.09 21:01: Sending message - Starting
+2024.03.09 21:01: Sending message - Fetched program
+2024.03.09 21:01: Sending message - Schledule created
+2024.03.09 21:01: Sending message - Fetched current day
+2024.03.09 21:01: Sending message - Continuing with day: 2
+2024.03.09 21:01: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:01: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:01: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:01: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:01: Sending message - Starting playback: zili.mp4 with delay
+2024.03.09 21:01: Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: Sending message - Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: START
+2024.03.09 21:01: Sending message - Starting
+2024.03.09 21:01: Sending message - Fetched program
+2024.03.09 21:01: Sending message - Schledule created
+2024.03.09 21:01: Sending message - Fetched current day
+2024.03.09 21:01: Sending message - Continuing with day: 2
+2024.03.09 21:01: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:01: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:01: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:01: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:01: Sending message - Starting playback: zili.mp4 with delay
+2024.03.09 21:01: Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: Sending message - Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: START
+2024.03.09 21:01: Sending message - Starting
+2024.03.09 21:01: Sending message - Fetched program
+2024.03.09 21:01: Sending message - Schledule created
+2024.03.09 21:01: Sending message - Fetched current day
+2024.03.09 21:01: Sending message - Continuing with day: 2
+2024.03.09 21:01: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:01: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:01: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:01: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:01: Sending message - Starting playback: zili.mp4 with delay
+2024.03.09 21:01: Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: Sending message - Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: START
+2024.03.09 21:01: Sending message - Starting
+2024.03.09 21:01: Sending message - Fetched program
+2024.03.09 21:01: Sending message - Schledule created
+2024.03.09 21:01: Sending message - Fetched current day
+2024.03.09 21:01: Sending message - Continuing with day: 2
+2024.03.09 21:01: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:01: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:01: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:01: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:01: Sending message - Starting playback: zili.mp4 with delay
+2024.03.09 21:01: Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: Sending message - Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: START
+2024.03.09 21:01: Sending message - Starting
+2024.03.09 21:01: Sending message - Fetched program
+2024.03.09 21:01: Sending message - Schledule created
+2024.03.09 21:01: Sending message - Fetched current day
+2024.03.09 21:01: Sending message - Continuing with day: 2
+2024.03.09 21:01: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:01: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:01: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:01: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:01: Sending message - Starting playback: zili.mp4 with delay
+2024.03.09 21:01: Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: Sending message - Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: START
+2024.03.09 21:01: Sending message - Starting
+2024.03.09 21:01: Sending message - Fetched program
+2024.03.09 21:01: Sending message - Schledule created
+2024.03.09 21:01: Sending message - Fetched current day
+2024.03.09 21:01: Sending message - Continuing with day: 2
+2024.03.09 21:01: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:01: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:01: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:01: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:01: Sending message - Starting playback: zili.mp4 with delay
+2024.03.09 21:01: Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: Sending message - Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: START
+2024.03.09 21:01: Sending message - Starting
+2024.03.09 21:01: Sending message - Fetched program
+2024.03.09 21:01: Sending message - Schledule created
+2024.03.09 21:01: Sending message - Fetched current day
+2024.03.09 21:01: Sending message - Continuing with day: 2
+2024.03.09 21:01: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:01: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:01: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:01: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:01: Sending message - Starting playback: zili.mp4 with delay
+2024.03.09 21:01: Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: Sending message - Critical error - KeyError('media_folder') - restarting
+2024.03.09 21:01: START
+2024.03.09 21:01: Sending message - Starting
+2024.03.09 21:01: Sending message - Fetched program
+2024.03.09 21:01: Sending message - Schledule created
+2024.03.09 21:01: Sending message - Fetched current day
+2024.03.09 21:01: Sending message - Continuing with day: 2
+2024.03.09 21:01: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:01: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:01: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:01: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:01: START
+2024.03.09 21:01: Sending message - Starting
+2024.03.09 21:01: Sending message - Fetched program
+2024.03.09 21:01: Sending message - Schledule created
+2024.03.09 21:01: Sending message - Fetched current day
+2024.03.09 21:01: Sending message - Continuing with day: 2
+2024.03.09 21:01: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:01: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:01: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:01: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:01: Sending message - Starting playback: zili.mp4 with delay
+2024.03.09 21:03: START
+2024.03.09 21:03: Sending message - Starting
+2024.03.09 21:03: Sending message - Fetched program
+2024.03.09 21:03: Sending message - Schledule created
+2024.03.09 21:03: Sending message - Fetched current day
+2024.03.09 21:03: Sending message - Continuing with day: 2
+2024.03.09 21:03: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:03: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:03: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:03: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:03: Sending message - Starting playback: zili.mp4 with delay
+2024.03.09 21:03: Sending message - Finished playback: zili.mp4
+2024.03.09 21:03: Sending message - Finished all films
+2024.03.09 21:06: START
+2024.03.09 21:06: Sending message - Starting
+2024.03.09 21:06: Sending message - Fetched program
+2024.03.09 21:06: Sending message - Schledule created
+2024.03.09 21:06: Sending message - Fetched current day
+2024.03.09 21:06: Sending message - Continuing with day: 2
+2024.03.09 21:06: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:06: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:06: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:06: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:06: Sending message - Started after 21:00 - skipping zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:07: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:08: START
+2024.03.09 21:08: Sending message - Starting
+2024.03.09 21:08: Sending message - Fetched program
+2024.03.09 21:08: Sending message - Schledule created
+2024.03.09 21:08: Sending message - Fetched current day
+2024.03.09 21:08: Sending message - Continuing with day: 2
+2024.03.09 21:08: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.09 21:08: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.09 21:08: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.09 21:08: Sending message - Started after 20:00 - skipping zili.mp4
+2024.03.09 21:08: Sending message - Started after 21:00 - skipping zili.mp4
+2024.03.09 21:08: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:09: Sending message - Waiting for 21:10 to play zili.mp4
+2024.03.09 21:10: Sending message - Starting playback: zili.mp4
+2024.03.09 21:10: Sending message - Finished playback: zili.mp4
+2024.03.09 21:10: Sending message - Waiting for 21:15 to play zili.mp4
+2024.03.09 21:11: Sending message - Waiting for 21:15 to play zili.mp4
+2024.03.09 21:12: Sending message - Waiting for 21:15 to play zili.mp4
+2024.03.09 21:13: Sending message - Waiting for 21:15 to play zili.mp4
+2024.03.09 21:14: Sending message - Waiting for 21:15 to play zili.mp4
+2024.03.09 21:15: Sending message - Starting playback: zili.mp4
+2024.03.09 21:15: Sending message - Finished playback: zili.mp4
+2024.03.09 21:15: Sending message - Finished all films

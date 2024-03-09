@@ -1,7 +1,14 @@
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 import time
+from player import play_video_multiproc
+
+REPORT_TIME_INTERVAL = 60 # client reportuje stav na server kazdych n sekund
+MAX_DELAY_TIME = 5 # flim muze byt spusten s maximalnim spozdenim n minut
+
+def current_time() -> datetime:
+    return datetime.now().time()
 
 class App:
     def __init__(self) -> None:
@@ -16,10 +23,12 @@ class App:
             json.dump(self.config, f, indent=4)
 
     def log(self, msg):
+        print(f'{datetime.now().strftime("%Y.%m.%d %H:%M")}: {msg}')
         with open('log.txt', 'a') as f:
             f.write(f'{datetime.now().strftime("%Y.%m.%d %H:%M")}: {msg}\n')
 
     def send_msg(self, msg: str) -> bool:
+        self.log(f'Sending message - {msg}')
         try:
             response = requests.post(f'{self.config["server"]}/client/{self.config["room"]}/msg', data=msg)
             if response.text == '200': return True
@@ -72,6 +81,45 @@ class App:
             self.log('Fetching current day failed - server offline')
             return False
         
+    def play(self, filename):
+        proc = play_video_multiproc(self.config["media_folder"] + filename)
+        start_time = time.time()
+        while proc.is_alive():
+            t = time.time()
+            if (t-start_time) >= REPORT_TIME_INTERVAL:
+                start_time = time.time()
+                self.send_msg(f'Playing {filename}')
+
+    # funkce na pousteni filmu - ocekava vsechny soubory v media/
+    def run(self):
+        for time_str, filename in self.config["schledule"][str(self.config["current_day"])]:
+            now = current_time()
+            playback_start_time = datetime.strptime(time_str, "%H:%M").time()
+            if now > playback_start_time:
+                # pokud je spozdeni delsi nez max delay time, skipuju tenhle film a cekam na dalsi
+                if (timedelta(hours=now.hour, minutes=now.minute) - timedelta(hours=playback_start_time.hour, minutes=playback_start_time.minute)) > timedelta(minutes=MAX_DELAY_TIME):
+                    self.send_msg(f'Started after {time_str} - skipping {filename}')
+                    continue
+                else:
+                    self.send_msg(f'Starting playback: {filename} with delay')
+                    self.play(filename)
+                    self.send_msg(f'Finished playback: {filename}')
+
+            elif now <= playback_start_time:
+                # DODELAT SPORIC OBRAZOVKY
+                start_time = time.time()
+                self.send_msg(f'Waiting for {time_str} to play {filename}')
+                while now < playback_start_time: # wait for desired time
+                    now = current_time()
+                    t = time.time()
+                    if (t-start_time) >= REPORT_TIME_INTERVAL:
+                        start_time = time.time()
+                        self.send_msg(f'Waiting for {time_str} to play {filename}')
+                self.send_msg(f'Starting playback: {filename}')
+                self.play(filename)
+                self.send_msg(f'Finished playback: {filename}')
+        self.send_msg('Finished all films')
+
     def start(self):
         self.log('START')
         self.send_msg('Starting')
@@ -89,19 +137,22 @@ class App:
             self.send_msg('Schledule created')
         if self.get_current_day():
             self.send_msg('Fetched current day')
+        self.send_msg(f'Continuing with day: {self.config["current_day"]}')
         
         if self.config["current_day"] == 0:
             pass
             # DODELAT STAHOVANI SOUBORU
-
-        # DODELAT POUSTENI FILMU
+        else:
+            # POUSTENI FILMU
+            self.run()
         
 def main():
     app = App()
     try:
         app.start()
     except Exception as e:
-        app.log(f'Critical error - {str(e)} - restarting')
+        app.log(f'Critical error - {e.__repr__()} - restarting')
+        app.send_msg(f'Critical error - {e.__repr__()} - restarting')
         main()
         quit()
 
