@@ -2444,3 +2444,29 @@
 2024.03.10 10:37: Sending message - Waiting for 20:00 to play zili.mp4
 2024.03.10 10:38: Sending message - Waiting for 20:00 to play zili.mp4
 2024.03.10 10:39: Sending message - Waiting for 20:00 to play zili.mp4
+2024.03.10 10:40: Sending message - Waiting for 20:00 to play zili.mp4
+2024.03.10 10:41: Sending message - Waiting for 20:00 to play zili.mp4
+2024.03.10 10:42: Sending message - Waiting for 20:00 to play zili.mp4
+2024.03.10 10:43: Sending message - Waiting for 20:00 to play zili.mp4
+2024.03.10 11:16: START
+2024.03.10 11:16: Sending message - Starting
+2024.03.10 11:16: Sending message - Fetched program
+2024.03.10 11:16: Sending message - Schledule created
+2024.03.10 11:16: Sending message - Fetched current day
+2024.03.10 11:16: Sending message - Continuing with day: 2
+2024.03.10 11:16: Sending message - Missing media files: None,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.03.10 11:16: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.10 11:16: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.10 11:16: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.10 11:16: Sending message - Waiting for 20:00 to play zili.mp4
+2024.03.10 11:18: START
+2024.03.10 11:18: Sending message - Starting
+2024.03.10 11:18: Sending message - Fetched program
+2024.03.10 11:18: Sending message - Schledule created
+2024.03.10 11:18: Sending message - Fetched current day
+2024.03.10 11:18: Sending message - Continuing with day: 2
+2024.03.10 11:18: Sending message - Missing media files: None,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.03.10 11:18: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.10 11:18: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.10 11:18: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.10 11:18: Sending message - Waiting for 20:00 to play zili.mp4

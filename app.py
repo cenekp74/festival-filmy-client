@@ -4,6 +4,7 @@ from datetime import datetime, timedelta
 import time
 from player import play_video_multiproc
 import os
+from screensaver import start_screensaver_multiproc
 
 REPORT_TIME_INTERVAL = 60 # client reportuje stav na server kazdych n sekund
 MAX_DELAY_TIME = 5 # flim muze byt spusten s maximalnim spozdenim n minut
@@ -122,7 +123,7 @@ class App:
                     self.send_msg(f'Finished playback: {filename}')
 
             elif now <= playback_start_time:
-                # DODELAT SPORIC OBRAZOVKY
+                screensaver_proc = start_screensaver_multiproc(f'{self.config["server"]}/screensaver/{self.config["room"]}')
                 start_time = time.time()
                 self.send_msg(f'Waiting for {time_str} to play {filename}')
                 while now < playback_start_time: # wait for desired time
@@ -131,6 +132,7 @@ class App:
                     if (t-start_time) >= REPORT_TIME_INTERVAL:
                         start_time = time.time()
                         self.send_msg(f'Waiting for {time_str} to play {filename}')
+                screensaver_proc.kill()
                 self.send_msg(f'Starting playback: {filename}')
                 self.play(filename)
                 self.send_msg(f'Finished playback: {filename}')
