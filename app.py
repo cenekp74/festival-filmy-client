@@ -3,6 +3,7 @@ import json
 from datetime import datetime, timedelta
 import time
 from player import play_video_multiproc
+import os
 
 REPORT_TIME_INTERVAL = 60 # client reportuje stav na server kazdych n sekund
 MAX_DELAY_TIME = 5 # flim muze byt spusten s maximalnim spozdenim n minut
@@ -91,6 +92,20 @@ class App:
                 start_time = time.time()
                 self.send_msg(f'Playing {filename}')
 
+    # funkce na kontrolu toho, ze vsechny soubory existuji v media/
+    def check_files(self):
+        media_files = list(os.listdir(self.config["media_folder"]))
+        if not self.config["schledule"]: return 'Schledule not created'
+        files_misssing = []
+        for _day, schledule in self.config["schledule"].items():
+            for _time, filename in schledule:
+                if filename not in media_files:
+                    if filename is None:
+                        files_misssing.append('None')
+                        continue
+                    files_misssing.append(filename)
+        return files_misssing
+
     # funkce na pousteni filmu - ocekava vsechny soubory v media/
     def run(self):
         for time_str, filename in self.config["schledule"][str(self.config["current_day"])]:
@@ -144,6 +159,11 @@ class App:
             pass
             # DODELAT STAHOVANI SOUBORU
         else:
+            files_missing = self.check_files()
+            if files_missing:
+                self.send_msg(f'Missing media files: {",".join(files_missing)} - continuing anyway')
+            else:
+                self.send_msg('All media files present')
             # POUSTENI FILMU
             self.run()
         

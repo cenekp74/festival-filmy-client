@@ -2012,3 +2012,435 @@
 2024.03.09 22:42: Sending message - Started after 21:15 - skipping zili.mp4
 2024.03.09 22:42: Sending message - Finished all films
 2024.03.09 22:42: Sending message - Finished running app - starting again in 120s
+2024.03.10 10:33: START
+2024.03.10 10:33: Sending message - Starting
+2024.03.10 10:33: Sending message - Fetched program
+2024.03.10 10:33: Sending message - Schledule created
+2024.03.10 10:33: Sending message - Fetched current day
+2024.03.10 10:33: Sending message - Continuing with day: 2
+2024.03.10 10:33: Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: Sending message - Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: START
+2024.03.10 10:33: Sending message - Starting
+2024.03.10 10:33: Sending message - Fetched program
+2024.03.10 10:33: Sending message - Schledule created
+2024.03.10 10:33: Sending message - Fetched current day
+2024.03.10 10:33: Sending message - Continuing with day: 2
+2024.03.10 10:33: Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: Sending message - Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: START
+2024.03.10 10:33: Sending message - Starting
+2024.03.10 10:33: Sending message - Fetched program
+2024.03.10 10:33: Sending message - Schledule created
+2024.03.10 10:33: Sending message - Fetched current day
+2024.03.10 10:33: Sending message - Continuing with day: 2
+2024.03.10 10:33: Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: Sending message - Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: START
+2024.03.10 10:33: Sending message - Starting
+2024.03.10 10:33: Sending message - Fetched program
+2024.03.10 10:33: Sending message - Schledule created
+2024.03.10 10:33: Sending message - Fetched current day
+2024.03.10 10:33: Sending message - Continuing with day: 2
+2024.03.10 10:33: Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: Sending message - Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: START
+2024.03.10 10:33: Sending message - Starting
+2024.03.10 10:33: Sending message - Fetched program
+2024.03.10 10:33: Sending message - Schledule created
+2024.03.10 10:33: Sending message - Fetched current day
+2024.03.10 10:33: Sending message - Continuing with day: 2
+2024.03.10 10:33: Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: Sending message - Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: START
+2024.03.10 10:33: Sending message - Starting
+2024.03.10 10:33: Sending message - Fetched program
+2024.03.10 10:33: Sending message - Schledule created
+2024.03.10 10:33: Sending message - Fetched current day
+2024.03.10 10:33: Sending message - Continuing with day: 2
+2024.03.10 10:33: Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: Sending message - Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: START
+2024.03.10 10:33: Sending message - Starting
+2024.03.10 10:33: Sending message - Fetched program
+2024.03.10 10:33: Sending message - Schledule created
+2024.03.10 10:33: Sending message - Fetched current day
+2024.03.10 10:33: Sending message - Continuing with day: 2
+2024.03.10 10:33: Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: Sending message - Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: START
+2024.03.10 10:33: Sending message - Starting
+2024.03.10 10:33: Sending message - Fetched program
+2024.03.10 10:33: Sending message - Schledule created
+2024.03.10 10:33: Sending message - Fetched current day
+2024.03.10 10:33: Sending message - Continuing with day: 2
+2024.03.10 10:33: Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: Sending message - Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: START
+2024.03.10 10:33: Sending message - Starting
+2024.03.10 10:33: Sending message - Fetched program
+2024.03.10 10:33: Sending message - Schledule created
+2024.03.10 10:33: Sending message - Fetched current day
+2024.03.10 10:33: Sending message - Continuing with day: 2
+2024.03.10 10:33: Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: Sending message - Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: START
+2024.03.10 10:33: Sending message - Starting
+2024.03.10 10:33: Sending message - Fetched program
+2024.03.10 10:33: Sending message - Schledule created
+2024.03.10 10:33: Sending message - Fetched current day
+2024.03.10 10:33: Sending message - Continuing with day: 2
+2024.03.10 10:33: Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: Sending message - Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: START
+2024.03.10 10:33: Sending message - Starting
+2024.03.10 10:33: Sending message - Fetched program
+2024.03.10 10:33: Sending message - Schledule created
+2024.03.10 10:33: Sending message - Fetched current day
+2024.03.10 10:33: Sending message - Continuing with day: 2
+2024.03.10 10:33: Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: Sending message - Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: START
+2024.03.10 10:33: Sending message - Starting
+2024.03.10 10:33: Sending message - Fetched program
+2024.03.10 10:33: Sending message - Schledule created
+2024.03.10 10:33: Sending message - Fetched current day
+2024.03.10 10:33: Sending message - Continuing with day: 2
+2024.03.10 10:33: Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: Sending message - Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: START
+2024.03.10 10:33: Sending message - Starting
+2024.03.10 10:33: Sending message - Fetched program
+2024.03.10 10:33: Sending message - Schledule created
+2024.03.10 10:33: Sending message - Fetched current day
+2024.03.10 10:33: Sending message - Continuing with day: 2
+2024.03.10 10:33: Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: Sending message - Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: START
+2024.03.10 10:33: Sending message - Starting
+2024.03.10 10:33: Sending message - Fetched program
+2024.03.10 10:33: Sending message - Schledule created
+2024.03.10 10:33: Sending message - Fetched current day
+2024.03.10 10:33: Sending message - Continuing with day: 2
+2024.03.10 10:33: Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: Sending message - Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: START
+2024.03.10 10:33: Sending message - Starting
+2024.03.10 10:33: Sending message - Fetched program
+2024.03.10 10:33: Sending message - Schledule created
+2024.03.10 10:33: Sending message - Fetched current day
+2024.03.10 10:33: Sending message - Continuing with day: 2
+2024.03.10 10:33: Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: Sending message - Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: START
+2024.03.10 10:33: Sending message - Starting
+2024.03.10 10:33: Sending message - Fetched program
+2024.03.10 10:33: Sending message - Schledule created
+2024.03.10 10:33: Sending message - Fetched current day
+2024.03.10 10:33: Sending message - Continuing with day: 2
+2024.03.10 10:33: Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: Sending message - Critical error - ValueError('not enough values to unpack (expected 2, got 1)') - restarting
+2024.03.10 10:33: START
+2024.03.10 10:33: Sending message - Starting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 0: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: Sending message - Critical error - TypeError('sequence item 1: expected str instance, NoneType found') - restarting
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: START
+2024.03.10 10:34: Sending message - Starting
+2024.03.10 10:34: Sending message - Fetched program
+2024.03.10 10:34: Sending message - Schledule created
+2024.03.10 10:34: Sending message - Fetched current day
+2024.03.10 10:34: Sending message - Continuing with day: 2
+2024.03.10 10:34: Sending message - Missing media files: None,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.03.10 10:34: Sending message - Started after 08:00 - skipping 1.mp4
+2024.03.10 10:34: Sending message - Started after 08:05 - skipping 2.mp4
+2024.03.10 10:34: Sending message - Started after 08:15 - skipping 3.mp4
+2024.03.10 10:34: Sending message - Waiting for 20:00 to play zili.mp4
+2024.03.10 10:35: Sending message - Waiting for 20:00 to play zili.mp4
+2024.03.10 10:36: Sending message - Waiting for 20:00 to play zili.mp4
+2024.03.10 10:37: Sending message - Waiting for 20:00 to play zili.mp4
+2024.03.10 10:38: Sending message - Waiting for 20:00 to play zili.mp4
+2024.03.10 10:39: Sending message - Waiting for 20:00 to play zili.mp4
