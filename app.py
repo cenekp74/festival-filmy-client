@@ -175,7 +175,8 @@ def main():
         app.start()
     except Exception as e:
         app.log(f'Critical error - {e.__repr__()} - restarting')
-        app.send_msg(f'Critical error - {e.__repr__()} - restarting')
+        app.send_msg(f'Critical error - {e.__repr__()} - restarting in 3s')
+        time.sleep(3)
         main()
         quit()
     app.send_msg(f'Finished running app - starting again in {RESTART_DELAY}s')
