@@ -2,3 +2,6 @@
 app/__pycache__
 __pycache__
 media
+build
+dist
+app.spec
