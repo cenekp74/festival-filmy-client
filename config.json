@@ -1,6 +1,6 @@
 {
     "room": "V",
-    "current_day": 2,
+    "current_day": 3,
     "media_folder": "media/",
     "server": "http://127.0.0.1:9864",
     "filenames": [],
@@ -8,7 +8,7 @@
         "1": [
             {
                 "day": 1,
-                "filename": null,
+                "filename": "",
                 "id": 7,
                 "item_type": "film",
                 "language": "cz",
@@ -28,8 +28,8 @@
                 "link": "asdf",
                 "name": "filmm",
                 "room": "V",
-                "time_from": "12:30",
-                "time_to": "13:30",
+                "time_from": "12:09",
+                "time_to": "13:09",
                 "uid": "f_11"
             },
             {
@@ -152,13 +152,27 @@
                 "uid": "f_20"
             }
         ],
-        "3": []
+        "3": [
+            {
+                "day": 3,
+                "filename": "Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv",
+                "id": 25,
+                "item_type": "film",
+                "language": "cz",
+                "link": "null",
+                "name": "v hlave",
+                "room": "V",
+                "time_from": "09:20",
+                "time_to": "10:55",
+                "uid": "f_25"
+            }
+        ]
     },
     "schledule": {
         "1": [
             [
                 "08:17",
-                null
+                ""
             ],
             [
                 "09:30",
@@ -169,7 +183,7 @@
                 ""
             ],
             [
-                "12:30",
+                "12:09",
                 ""
             ]
         ],
@@ -203,6 +217,11 @@
                 "zili.mp4"
             ]
         ],
-        "3": []
+        "3": [
+            [
+                "09:20",
+                "Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv"
+            ]
+        ]
     }
 }

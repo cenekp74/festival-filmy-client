@@ -7,7 +7,7 @@ import os
 from screensaver import start_screensaver_multiproc
 
 REPORT_TIME_INTERVAL = 60 # client reportuje stav na server kazdych n sekund
-MAX_DELAY_TIME = 5 # flim muze byt spusten s maximalnim spozdenim n minut
+MAX_DELAY_TIME = 120 # flim muze byt spusten s maximalnim spozdenim n minut
 RESTART_DELAY = 120 # po ukonceni se client restartuje za n sekund
 
 def current_time() -> datetime:
