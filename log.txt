@@ -3689,3 +3689,17 @@
 2024.03.29 09:35: Sending message - Continuing with day: 3
 2024.03.29 09:35: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
 2024.03.29 09:35: Sending message - Starting playback: Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv with delay
+2024.03.30 16:45: No config file found - using default config
+2024.03.30 16:45: START
+2024.03.30 16:45: Sending message - Starting
+2024.03.30 16:45: Sending message (Starting) failed - server offline
+2024.03.30 16:46: Fetching program failed - server offline
+2024.03.30 16:46: Critical error - KeyError('schledule') - restarting
+2024.03.30 16:46: Sending message - Critical error - KeyError('schledule') - restarting in 3s
+2024.03.30 16:46: Sending message (Critical error - KeyError('schledule') - restarting in 3s) failed - server offline
+2024.03.30 16:46: No config file found - using default config
+2024.03.30 16:46: START
+2024.03.30 16:46: Sending message - Starting
+2024.03.30 16:46: Sending message (Starting) failed - server offline
+2024.03.30 16:46: Fetching program failed - server offline
+2024.03.30 16:46: No progam or schledule - restarting in 10s

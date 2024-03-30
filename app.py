@@ -15,7 +15,20 @@ def current_time() -> datetime:
 
 class App:
     def __init__(self) -> None:
-        self.load_config()
+        try:
+            self.load_config()
+        except FileNotFoundError as e:
+            self.log('No config file found - using default config')
+            self.config = {
+                "room": "IVT1",
+                "current_day": 0,
+                "media_folder": "media/",
+                "server": "http://127.0.0.1:9864",
+                "filenames": [],
+                "program": {},
+                "schledule": {}
+            }
+            self.write_config()
 
     def load_config(self):
         with open('config.json', 'r') as f:
