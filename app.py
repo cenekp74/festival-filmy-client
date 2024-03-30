@@ -17,6 +17,18 @@ class App:
     def __init__(self) -> None:
         try:
             self.load_config()
+            if not self.validate_config():
+                self.log('Config file invalid - using default config')
+                self.config = {
+                    "room": "IVT1",
+                    "current_day": 0,
+                    "media_folder": "media/",
+                    "server": "http://127.0.0.1:9864",
+                    "filenames": [],
+                    "program": {},
+                    "schledule": {}
+                }
+                self.write_config()
         except FileNotFoundError as e:
             self.log('No config file found - using default config')
             self.config = {
@@ -29,6 +41,13 @@ class App:
                 "schledule": {}
             }
             self.write_config()
+
+    def validate_config(self) -> bool:
+        keys = self.config.keys()
+        for k in ["room", "current_day", "media_folder", "server", "filenames", "program", "schledule"]:
+            if k not in keys:
+                return False
+        return True
 
     def load_config(self):
         with open('config.json', 'r') as f:
