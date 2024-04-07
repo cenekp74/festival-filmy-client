@@ -179,7 +179,7 @@ class App:
             if not self.config["schledule"] and not self.config["program"]:
                 self.log('No progam or schledule - restarting in 10s')
                 time.sleep(10)
-                self.start()
+                main()
                 quit()
             else:
                 self.log('Continuing using locally saved program/schledule')
