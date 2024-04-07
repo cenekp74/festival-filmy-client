@@ -3716,3 +3716,153 @@
 2024.03.30 16:55: START
 2024.03.30 16:55: Sending message - Starting
 2024.03.30 16:55: Sending message (Starting) failed - server offline
+2024.04.07 12:42: START
+2024.04.07 12:42: Sending message - Starting
+2024.04.07 12:42: Sending message - Fetched program
+2024.04.07 12:42: Sending message - Schledule created
+2024.04.07 12:42: Sending message - Fetched current day
+2024.04.07 12:42: Sending message - Continuing with day: 3
+2024.04.07 12:42: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 12:42: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 12:42: Sending message - Waiting for 12:45 to play inside_out_en_all_subtit.mkv
+2024.04.07 12:43: Sending message - Waiting for 12:45 to play inside_out_en_all_subtit.mkv
+2024.04.07 12:44: Sending message - Waiting for 12:45 to play inside_out_en_all_subtit.mkv
+2024.04.07 12:45: Sending message - Starting playback: inside_out_en_all_subtit.mkv
+2024.04.07 12:46: Sending message - Playing inside_out_en_all_subtit.mkv
+2024.04.07 12:47: Sending message - Playing inside_out_en_all_subtit.mkv
+2024.04.07 12:47: START
+2024.04.07 12:47: Sending message - Starting
+2024.04.07 12:47: Sending message - Fetched program
+2024.04.07 12:47: Sending message - Schledule created
+2024.04.07 12:47: Sending message - Fetched current day
+2024.04.07 12:47: Sending message - Continuing with day: 3
+2024.04.07 12:47: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 12:47: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 12:47: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 12:47: START
+2024.04.07 12:47: Sending message - Starting
+2024.04.07 12:47: Sending message - Fetched program
+2024.04.07 12:47: Sending message - Schledule created
+2024.04.07 12:47: Sending message - Fetched current day
+2024.04.07 12:47: Sending message - Continuing with day: 3
+2024.04.07 12:47: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 12:47: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 12:47: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 12:48: START
+2024.04.07 12:48: Sending message - Starting
+2024.04.07 12:48: Sending message - Fetched program
+2024.04.07 12:48: Sending message - Schledule created
+2024.04.07 12:48: Sending message - Fetched current day
+2024.04.07 12:48: Sending message - Continuing with day: 3
+2024.04.07 12:48: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 12:48: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 12:48: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 12:48: Critical error - PyGetWindowException('Error code from Windows: 0 - The operation completed successfully.') - restarting
+2024.04.07 12:48: Sending message - Critical error - PyGetWindowException('Error code from Windows: 0 - The operation completed successfully.') - restarting in 3s
+2024.04.07 12:48: START
+2024.04.07 12:48: Sending message - Starting
+2024.04.07 12:48: Sending message - Fetched program
+2024.04.07 12:48: Sending message - Schledule created
+2024.04.07 12:48: Sending message - Fetched current day
+2024.04.07 12:48: Sending message - Continuing with day: 3
+2024.04.07 12:48: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 12:48: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 12:48: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 12:48: Critical error - PyGetWindowException('Error code from Windows: 0 - The operation completed successfully.') - restarting
+2024.04.07 12:48: Sending message - Critical error - PyGetWindowException('Error code from Windows: 0 - The operation completed successfully.') - restarting in 3s
+2024.04.07 12:48: START
+2024.04.07 12:48: Sending message - Starting
+2024.04.07 12:48: Sending message - Fetched program
+2024.04.07 12:48: Sending message - Schledule created
+2024.04.07 12:48: Sending message - Fetched current day
+2024.04.07 12:48: Sending message - Continuing with day: 3
+2024.04.07 12:48: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 12:48: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 12:48: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 12:48: Critical error - PyGetWindowException('Error code from Windows: 0 - The operation completed successfully.') - restarting
+2024.04.07 12:48: Sending message - Critical error - PyGetWindowException('Error code from Windows: 0 - The operation completed successfully.') - restarting in 3s
+2024.04.07 12:51: START
+2024.04.07 12:51: Sending message - Starting
+2024.04.07 12:51: Sending message - Fetched program
+2024.04.07 12:51: Sending message - Schledule created
+2024.04.07 12:51: Sending message - Fetched current day
+2024.04.07 12:51: Sending message - Continuing with day: 3
+2024.04.07 12:51: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 12:51: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 12:51: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 12:51: Critical error - IndexError('list index out of range') - restarting
+2024.04.07 12:51: Sending message - Critical error - IndexError('list index out of range') - restarting in 3s
+2024.04.07 12:51: START
+2024.04.07 12:51: Sending message - Starting
+2024.04.07 12:51: Sending message - Fetched program
+2024.04.07 12:51: Sending message - Schledule created
+2024.04.07 12:51: Sending message - Fetched current day
+2024.04.07 12:51: Sending message - Continuing with day: 3
+2024.04.07 12:51: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 12:51: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 12:51: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 12:52: START
+2024.04.07 12:52: Sending message - Starting
+2024.04.07 12:52: Sending message - Fetched program
+2024.04.07 12:52: Sending message - Schledule created
+2024.04.07 12:52: Sending message - Fetched current day
+2024.04.07 12:52: Sending message - Continuing with day: 3
+2024.04.07 12:52: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 12:52: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 12:52: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 12:52: START
+2024.04.07 12:52: Sending message - Starting
+2024.04.07 12:52: Sending message - Fetched program
+2024.04.07 12:52: Sending message - Schledule created
+2024.04.07 12:52: Sending message - Fetched current day
+2024.04.07 12:52: Sending message - Continuing with day: 3
+2024.04.07 12:52: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 12:52: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 12:52: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 12:53: START
+2024.04.07 12:53: Sending message - Starting
+2024.04.07 12:53: Sending message - Fetched program
+2024.04.07 12:53: Sending message - Schledule created
+2024.04.07 12:53: Sending message - Fetched current day
+2024.04.07 12:53: Sending message - Continuing with day: 3
+2024.04.07 12:53: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 12:53: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 12:53: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 12:53: START
+2024.04.07 12:53: Sending message - Starting
+2024.04.07 12:53: Sending message - Fetched program
+2024.04.07 12:53: Sending message - Schledule created
+2024.04.07 12:53: Sending message - Fetched current day
+2024.04.07 12:53: Sending message - Continuing with day: 3
+2024.04.07 12:53: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 12:53: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 12:53: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 12:54: START
+2024.04.07 12:54: Sending message - Starting
+2024.04.07 12:54: Sending message - Fetched program
+2024.04.07 12:54: Sending message - Schledule created
+2024.04.07 12:54: Sending message - Fetched current day
+2024.04.07 12:54: Sending message - Continuing with day: 3
+2024.04.07 12:54: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 12:54: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 12:54: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 12:54: START
+2024.04.07 12:54: Sending message - Starting
+2024.04.07 12:54: Sending message - Fetched program
+2024.04.07 12:54: Sending message - Schledule created
+2024.04.07 12:54: Sending message - Fetched current day
+2024.04.07 12:54: Sending message - Continuing with day: 3
+2024.04.07 12:54: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 12:54: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 12:54: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 12:54: Critical error - PyGetWindowException('Error code from Windows: 0 - The operation completed successfully.') - restarting
+2024.04.07 12:54: Sending message - Critical error - PyGetWindowException('Error code from Windows: 0 - The operation completed successfully.') - restarting in 3s
+2024.04.07 12:54: START
+2024.04.07 12:54: Sending message - Starting
+2024.04.07 12:54: Sending message - Fetched program
+2024.04.07 12:54: Sending message - Schledule created
+2024.04.07 12:54: Sending message - Fetched current day
+2024.04.07 12:54: Sending message - Continuing with day: 3
+2024.04.07 12:54: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 12:54: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 12:54: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay

@@ -165,6 +165,19 @@
                 "time_from": "09:20",
                 "time_to": "10:55",
                 "uid": "f_25"
+            },
+            {
+                "day": 3,
+                "filename": "inside_out_en_all_subtit.mkv",
+                "id": 26,
+                "item_type": "film",
+                "language": "cz",
+                "link": "vhalveidk",
+                "name": "V Hlave EN + cz tit",
+                "room": "V",
+                "time_from": "12:45",
+                "time_to": "14:20",
+                "uid": "f_26"
             }
         ]
     },
@@ -221,6 +234,10 @@
             [
                 "09:20",
                 "Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv"
+            ],
+            [
+                "12:45",
+                "inside_out_en_all_subtit.mkv"
             ]
         ]
     }
