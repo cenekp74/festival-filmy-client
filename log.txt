@@ -3866,3 +3866,148 @@
 2024.04.07 12:54: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
 2024.04.07 12:54: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
 2024.04.07 12:54: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 12:54: START
+2024.04.07 12:54: Sending message - Starting
+2024.04.07 12:54: Sending message - Fetched program
+2024.04.07 12:54: Sending message - Schledule created
+2024.04.07 12:54: Sending message - Fetched current day
+2024.04.07 12:54: Sending message - Continuing with day: 3
+2024.04.07 12:54: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 12:54: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 12:54: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 12:56: START
+2024.04.07 12:56: Sending message - Starting
+2024.04.07 12:56: Sending message - Fetched program
+2024.04.07 12:56: Sending message - Schledule created
+2024.04.07 12:56: Sending message - Fetched current day
+2024.04.07 12:56: Sending message - Continuing with day: 3
+2024.04.07 12:56: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 12:56: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 12:56: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 12:58: START
+2024.04.07 12:58: Sending message - Starting
+2024.04.07 12:58: Sending message - Fetched program
+2024.04.07 12:58: Sending message - Schledule created
+2024.04.07 12:58: Sending message - Fetched current day
+2024.04.07 12:58: Sending message - Continuing with day: 3
+2024.04.07 12:58: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 12:58: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 12:58: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 12:59: START
+2024.04.07 12:59: Sending message - Starting
+2024.04.07 12:59: Sending message - Fetched program
+2024.04.07 12:59: Sending message - Schledule created
+2024.04.07 12:59: Sending message - Fetched current day
+2024.04.07 12:59: Sending message - Continuing with day: 3
+2024.04.07 12:59: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 12:59: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 12:59: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 13:09: START
+2024.04.07 13:09: Sending message - Starting
+2024.04.07 13:09: Sending message - Fetched program
+2024.04.07 13:09: Sending message - Schledule created
+2024.04.07 13:09: Sending message - Fetched current day
+2024.04.07 13:09: Sending message - Continuing with day: 3
+2024.04.07 13:09: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 13:09: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 13:09: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 13:11: Sending message - Playing inside_out_en_all_subtit.mkv
+2024.04.07 13:13: START
+2024.04.07 13:13: Sending message - Starting
+2024.04.07 13:13: Sending message - Fetched program
+2024.04.07 13:13: Sending message - Schledule created
+2024.04.07 13:13: Sending message - Fetched current day
+2024.04.07 13:13: Sending message - Continuing with day: 3
+2024.04.07 13:13: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 13:13: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 13:13: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 13:14: START
+2024.04.07 13:14: Sending message - Starting
+2024.04.07 13:14: Sending message - Fetched program
+2024.04.07 13:14: Sending message - Schledule created
+2024.04.07 13:14: Sending message - Fetched current day
+2024.04.07 13:14: Sending message - Continuing with day: 3
+2024.04.07 13:14: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 13:14: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 13:14: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 13:19: START
+2024.04.07 13:19: Sending message - Starting
+2024.04.07 13:19: Sending message - Fetched program
+2024.04.07 13:19: Sending message - Schledule created
+2024.04.07 13:19: Sending message - Fetched current day
+2024.04.07 13:19: Sending message - Continuing with day: 3
+2024.04.07 13:19: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 13:19: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 13:19: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 13:19: START
+2024.04.07 13:19: Sending message - Starting
+2024.04.07 13:19: Sending message - Fetched program
+2024.04.07 13:19: Sending message - Schledule created
+2024.04.07 13:19: Sending message - Fetched current day
+2024.04.07 13:19: Sending message - Continuing with day: 3
+2024.04.07 13:19: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 13:19: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 13:19: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 13:19: START
+2024.04.07 13:19: Sending message - Starting
+2024.04.07 13:19: Sending message - Fetched program
+2024.04.07 13:19: Sending message - Schledule created
+2024.04.07 13:19: Sending message - Fetched current day
+2024.04.07 13:19: Sending message - Continuing with day: 3
+2024.04.07 13:19: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 13:19: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 13:19: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 13:20: START
+2024.04.07 13:20: Sending message - Starting
+2024.04.07 13:20: Sending message - Fetched program
+2024.04.07 13:20: Sending message - Schledule created
+2024.04.07 13:20: Sending message - Fetched current day
+2024.04.07 13:20: Sending message - Continuing with day: 3
+2024.04.07 13:20: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 13:20: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 13:20: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 13:23: START
+2024.04.07 13:23: Sending message - Starting
+2024.04.07 13:23: Sending message - Fetched program
+2024.04.07 13:23: Sending message - Schledule created
+2024.04.07 13:23: Sending message - Fetched current day
+2024.04.07 13:23: Sending message - Continuing with day: 3
+2024.04.07 13:23: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 13:23: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 13:23: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 13:23: START
+2024.04.07 13:23: Sending message - Starting
+2024.04.07 13:23: Sending message - Fetched program
+2024.04.07 13:23: Sending message - Schledule created
+2024.04.07 13:23: Sending message - Fetched current day
+2024.04.07 13:23: Sending message - Continuing with day: 3
+2024.04.07 13:23: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 13:23: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 13:23: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 13:26: START
+2024.04.07 13:26: Sending message - Starting
+2024.04.07 13:26: Sending message - Fetched program
+2024.04.07 13:26: Sending message - Schledule created
+2024.04.07 13:26: Sending message - Fetched current day
+2024.04.07 13:26: Sending message - Continuing with day: 3
+2024.04.07 13:26: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 13:26: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 13:26: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 13:28: START
+2024.04.07 13:28: Sending message - Starting
+2024.04.07 13:28: Sending message - Fetched program
+2024.04.07 13:28: Sending message - Schledule created
+2024.04.07 13:28: Sending message - Fetched current day
+2024.04.07 13:28: Sending message - Continuing with day: 3
+2024.04.07 13:28: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 13:28: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 13:28: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.04.07 13:29: START
+2024.04.07 13:29: Sending message - Starting
+2024.04.07 13:29: Sending message - Fetched program
+2024.04.07 13:29: Sending message - Schledule created
+2024.04.07 13:29: Sending message - Fetched current day
+2024.04.07 13:29: Sending message - Continuing with day: 3
+2024.04.07 13:29: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
+2024.04.07 13:29: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.04.07 13:29: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
