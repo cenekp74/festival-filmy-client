@@ -196,6 +196,11 @@ class App:
             self.send_msg('All media files present')
 
         if self.config["current_day"] == 0:
+            if not files_missing:
+                self.send_msg('Day 0 and all media files present - restarting in 10 minutes')
+                time.sleep(600)
+                main()
+                quit()
             pass
             # DODELAT STAHOVANI SOUBORU
         else:
