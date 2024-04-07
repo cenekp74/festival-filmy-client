@@ -189,16 +189,16 @@ class App:
             self.send_msg('Fetched current day')
         self.send_msg(f'Continuing with day: {self.config["current_day"]}')
         
+        files_missing = self.check_files()
+        if files_missing:
+            self.send_msg(f'Missing media files: {",".join(files_missing)} - continuing anyway')
+        else:
+            self.send_msg('All media files present')
+
         if self.config["current_day"] == 0:
             pass
             # DODELAT STAHOVANI SOUBORU
         else:
-            files_missing = self.check_files()
-            if files_missing:
-                self.send_msg(f'Missing media files: {",".join(files_missing)} - continuing anyway')
-            else:
-                self.send_msg('All media files present')
-            # POUSTENI FILMU
             self.run()
         
 def main():
