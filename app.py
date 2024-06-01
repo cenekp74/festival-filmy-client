@@ -5,6 +5,7 @@ import time
 from player import play_video_multiproc
 import os
 from screensaver import start_screensaver_multiproc
+import multiprocessing
 
 REPORT_TIME_INTERVAL = 60 # client reportuje stav na server kazdych n sekund
 MAX_DELAY_TIME = 120 # flim muze byt spusten s maximalnim spozdenim n minut
@@ -233,4 +234,5 @@ def main():
     main()
 
 if __name__ == '__main__':
+    multiprocessing.freeze_support() # tohle je potreba aby fungoval multiproc v pyinstalleru (ale jenom --onedir ne --onefile)
     main()

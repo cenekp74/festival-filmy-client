@@ -4072,3 +4072,84 @@
 2024.06.01 12:21: Sending message (Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv) failed - server offline
 2024.06.01 12:21: Sending message - Waiting for 12:45 to play inside_out_en_all_subtit.mkv
 2024.06.01 12:21: Sending message (Waiting for 12:45 to play inside_out_en_all_subtit.mkv) failed - server offline
+2024.06.01 12:40: START
+2024.06.01 12:40: Sending message - Starting
+2024.06.01 12:40: Sending message (Starting) failed - server offline
+2024.06.01 12:40: Fetching program failed - server offline
+2024.06.01 12:40: Continuing using locally saved program/schledule
+2024.06.01 12:40: Sending message - Schledule created
+2024.06.01 12:40: Sending message (Schledule created) failed - server offline
+2024.06.01 12:40: Fetching current day failed - server offline
+2024.06.01 12:40: Sending message - Continuing with day: 3
+2024.06.01 12:40: Sending message (Continuing with day: 3) failed - server offline
+2024.06.01 12:40: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4,zili.mp4,zili.mp4,zili.mp4,zili.mp4,Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv,inside_out_en_all_subtit.mkv - continuing anyway
+2024.06.01 12:40: Sending message (Missing media files: ,,,,1.mp4,2.mp4,3.mp4,zili.mp4,zili.mp4,zili.mp4,zili.mp4,Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv,inside_out_en_all_subtit.mkv - continuing anyway) failed - server offline
+2024.06.01 12:40: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.06.01 12:40: Sending message (Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv) failed - server offline
+2024.06.01 12:40: Sending message - Waiting for 12:45 to play inside_out_en_all_subtit.mkv
+2024.06.01 12:40: Sending message (Waiting for 12:45 to play inside_out_en_all_subtit.mkv) failed - server offline
+2024.06.01 12:41: Sending message - Waiting for 12:45 to play inside_out_en_all_subtit.mkv
+2024.06.01 12:41: Sending message (Waiting for 12:45 to play inside_out_en_all_subtit.mkv) failed - server offline
+2024.06.01 12:49: START
+2024.06.01 12:49: Sending message - Starting
+2024.06.01 12:49: Sending message (Starting) failed - server offline
+2024.06.01 12:49: Fetching program failed - server offline
+2024.06.01 12:49: Continuing using locally saved program/schledule
+2024.06.01 12:49: Sending message - Schledule created
+2024.06.01 12:49: Sending message (Schledule created) failed - server offline
+2024.06.01 12:49: Fetching current day failed - server offline
+2024.06.01 12:49: Sending message - Continuing with day: 3
+2024.06.01 12:49: Sending message (Continuing with day: 3) failed - server offline
+2024.06.01 12:49: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4,zili.mp4,zili.mp4,zili.mp4,zili.mp4,Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv - continuing anyway
+2024.06.01 12:49: Sending message (Missing media files: ,,,,1.mp4,2.mp4,3.mp4,zili.mp4,zili.mp4,zili.mp4,zili.mp4,Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv - continuing anyway) failed - server offline
+2024.06.01 12:49: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.06.01 12:49: Sending message (Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv) failed - server offline
+2024.06.01 12:49: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.06.01 12:50: Sending message (Starting playback: inside_out_en_all_subtit.mkv with delay) failed - server offline
+2024.06.01 12:50: Sending message - Finished playback: inside_out_en_all_subtit.mkv
+2024.06.01 12:50: Sending message (Finished playback: inside_out_en_all_subtit.mkv) failed - server offline
+2024.06.01 12:50: Sending message - Finished all films
+2024.06.01 12:50: Sending message (Finished all films) failed - server offline
+2024.06.01 12:50: Sending message - Finished running app - starting again in 120s
+2024.06.01 12:50: Sending message (Finished running app - starting again in 120s) failed - server offline
+2024.06.01 12:50: START
+2024.06.01 12:50: Sending message - Starting
+2024.06.01 12:50: Sending message (Starting) failed - server offline
+2024.06.01 12:50: Fetching program failed - server offline
+2024.06.01 12:50: Continuing using locally saved program/schledule
+2024.06.01 12:50: Sending message - Schledule created
+2024.06.01 12:50: Sending message (Schledule created) failed - server offline
+2024.06.01 12:50: Fetching current day failed - server offline
+2024.06.01 12:50: Sending message - Continuing with day: 3
+2024.06.01 12:50: Sending message (Continuing with day: 3) failed - server offline
+2024.06.01 12:50: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4,zili.mp4,zili.mp4,zili.mp4,zili.mp4,Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv - continuing anyway
+2024.06.01 12:51: Sending message (Missing media files: ,,,,1.mp4,2.mp4,3.mp4,zili.mp4,zili.mp4,zili.mp4,zili.mp4,Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv - continuing anyway) failed - server offline
+2024.06.01 12:51: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.06.01 12:51: Sending message (Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv) failed - server offline
+2024.06.01 12:51: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.06.01 12:51: Sending message (Starting playback: inside_out_en_all_subtit.mkv with delay) failed - server offline
+2024.06.01 12:51: Sending message - Finished playback: inside_out_en_all_subtit.mkv
+2024.06.01 12:51: Sending message (Finished playback: inside_out_en_all_subtit.mkv) failed - server offline
+2024.06.01 12:51: Sending message - Finished all films
+2024.06.01 13:17: START
+2024.06.01 13:17: Sending message - Starting
+2024.06.01 13:17: Sending message (Starting) failed - server offline
+2024.06.01 13:17: Fetching program failed - server offline
+2024.06.01 13:17: Continuing using locally saved program/schledule
+2024.06.01 13:17: Sending message - Schledule created
+2024.06.01 13:17: Sending message (Schledule created) failed - server offline
+2024.06.01 13:17: Fetching current day failed - server offline
+2024.06.01 13:17: Sending message - Continuing with day: 3
+2024.06.01 13:17: Sending message (Continuing with day: 3) failed - server offline
+2024.06.01 13:17: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4,zili.mp4,zili.mp4,zili.mp4,zili.mp4,Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv - continuing anyway
+2024.06.01 13:17: Sending message (Missing media files: ,,,,1.mp4,2.mp4,3.mp4,zili.mp4,zili.mp4,zili.mp4,zili.mp4,Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv - continuing anyway) failed - server offline
+2024.06.01 13:17: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.06.01 13:17: Sending message (Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv) failed - server offline
+2024.06.01 13:17: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.06.01 13:17: Sending message (Starting playback: inside_out_en_all_subtit.mkv with delay) failed - server offline
+2024.06.01 13:17: Sending message - Finished playback: inside_out_en_all_subtit.mkv
+2024.06.01 13:17: Sending message (Finished playback: inside_out_en_all_subtit.mkv) failed - server offline
+2024.06.01 13:17: Sending message - Finished all films
+2024.06.01 13:17: Sending message (Finished all films) failed - server offline
+2024.06.01 13:17: Sending message - Finished running app - starting again in 120s
+2024.06.01 13:17: Sending message (Finished running app - starting again in 120s) failed - server offline
