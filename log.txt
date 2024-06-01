@@ -4011,3 +4011,64 @@
 2024.04.07 13:29: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4 - continuing anyway
 2024.04.07 13:29: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
 2024.04.07 13:29: Sending message - Starting playback: inside_out_en_all_subtit.mkv with delay
+2024.06.01 12:09: START
+2024.06.01 12:09: Sending message - Starting
+2024.06.01 12:09: Sending message (Starting) failed - server offline
+2024.06.01 12:09: Fetching program failed - server offline
+2024.06.01 12:09: Continuing using locally saved program/schledule
+2024.06.01 12:09: Sending message - Schledule created
+2024.06.01 12:09: Sending message (Schledule created) failed - server offline
+2024.06.01 12:09: Fetching current day failed - server offline
+2024.06.01 12:09: Sending message - Continuing with day: 3
+2024.06.01 12:09: Sending message (Continuing with day: 3) failed - server offline
+2024.06.01 12:09: Critical error - FileNotFoundError(2, 'The system cannot find the path specified') - restarting
+2024.06.01 12:09: Sending message - Critical error - FileNotFoundError(2, 'The system cannot find the path specified') - restarting in 3s
+2024.06.01 12:09: Sending message (Critical error - FileNotFoundError(2, 'The system cannot find the path specified') - restarting in 3s) failed - server offline
+2024.06.01 12:15: START
+2024.06.01 12:15: Sending message - Starting
+2024.06.01 12:16: Sending message (Starting) failed - server offline
+2024.06.01 12:16: Fetching program failed - server offline
+2024.06.01 12:16: Continuing using locally saved program/schledule
+2024.06.01 12:16: Sending message - Schledule created
+2024.06.01 12:16: Sending message (Schledule created) failed - server offline
+2024.06.01 12:16: Fetching current day failed - server offline
+2024.06.01 12:16: Sending message - Continuing with day: 3
+2024.06.01 12:16: Sending message (Continuing with day: 3) failed - server offline
+2024.06.01 12:16: Media folder does not exist (media/)
+2024.06.01 12:16: Critical error - FileNotFoundError(2, 'The system cannot find the path specified') - restarting
+2024.06.01 12:16: Sending message - Critical error - FileNotFoundError(2, 'The system cannot find the path specified') - restarting in 3s
+2024.06.01 12:16: Sending message (Critical error - FileNotFoundError(2, 'The system cannot find the path specified') - restarting in 3s) failed - server offline
+2024.06.01 12:16: START
+2024.06.01 12:16: Sending message - Starting
+2024.06.01 12:18: START
+2024.06.01 12:18: Sending message - Starting
+2024.06.01 12:18: Sending message (Starting) failed - server offline
+2024.06.01 12:18: Fetching program failed - server offline
+2024.06.01 12:18: Continuing using locally saved program/schledule
+2024.06.01 12:18: Sending message - Schledule created
+2024.06.01 12:19: Sending message (Schledule created) failed - server offline
+2024.06.01 12:19: Fetching current day failed - server offline
+2024.06.01 12:19: Sending message - Continuing with day: 3
+2024.06.01 12:19: Sending message (Continuing with day: 3) failed - server offline
+2024.06.01 12:19: Critical error - FileNotFoundError(2, 'The system cannot find the path specified') - restarting
+2024.06.01 12:19: Sending message - Critical error - FileNotFoundError(2, 'The system cannot find the path specified') - restarting in 3s
+2024.06.01 12:19: Sending message (Critical error - FileNotFoundError(2, 'The system cannot find the path specified') - restarting in 3s) failed - server offline
+2024.06.01 12:19: START
+2024.06.01 12:19: Sending message - Starting
+2024.06.01 12:21: START
+2024.06.01 12:21: Sending message - Starting
+2024.06.01 12:21: Sending message (Starting) failed - server offline
+2024.06.01 12:21: Fetching program failed - server offline
+2024.06.01 12:21: Continuing using locally saved program/schledule
+2024.06.01 12:21: Sending message - Schledule created
+2024.06.01 12:21: Sending message (Schledule created) failed - server offline
+2024.06.01 12:21: Fetching current day failed - server offline
+2024.06.01 12:21: Sending message - Continuing with day: 3
+2024.06.01 12:21: Sending message (Continuing with day: 3) failed - server offline
+2024.06.01 12:21: Media folder does not exist (media/)
+2024.06.01 12:21: Sending message - Missing media files: ,,,,1.mp4,2.mp4,3.mp4,zili.mp4,zili.mp4,zili.mp4,zili.mp4,Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv,inside_out_en_all_subtit.mkv - continuing anyway
+2024.06.01 12:21: Sending message (Missing media files: ,,,,1.mp4,2.mp4,3.mp4,zili.mp4,zili.mp4,zili.mp4,zili.mp4,Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv,inside_out_en_all_subtit.mkv - continuing anyway) failed - server offline
+2024.06.01 12:21: Sending message - Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv
+2024.06.01 12:21: Sending message (Started after 09:20 - skipping Inside.Out.2015.1080p.BluRay.CZ.SK.DD.5.1.x264-MTK.mkv) failed - server offline
+2024.06.01 12:21: Sending message - Waiting for 12:45 to play inside_out_en_all_subtit.mkv
+2024.06.01 12:21: Sending message (Waiting for 12:45 to play inside_out_en_all_subtit.mkv) failed - server offline

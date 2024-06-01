@@ -125,10 +125,22 @@ class App:
                 start_time = time.time()
                 self.send_msg(f'Playing {filename}')
 
-    # funkce na kontrolu toho, ze vsechny soubory existuji v media/
+    # funkce na kontrolu toho, ze vsechny media soubory ve schledule existuji v media_folder
     def check_files(self):
-        media_files = list(os.listdir(self.config["media_folder"]))
         if not self.config["schledule"]: return 'Schledule not created'
+
+        if not os.path.exists(self.config["media_folder"]): # if media folder doesnt exist, return all media files in schledule
+            self.log(f'Media folder does not exist ({self.config["media_folder"]})')
+            files_misssing = []
+            for _day, schledule in self.config["schledule"].items():
+                for _time, filename in schledule:
+                    if filename is None:
+                        files_misssing.append('None')
+                        continue
+                    files_misssing.append(filename)
+            return files_misssing
+        
+        media_files = list(os.listdir(self.config["media_folder"]))
         files_misssing = []
         for _day, schledule in self.config["schledule"].items():
             for _time, filename in schledule:
