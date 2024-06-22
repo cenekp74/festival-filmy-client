@@ -11,6 +11,16 @@ REPORT_TIME_INTERVAL = 60 # client reportuje stav na server kazdych n sekund
 MAX_DELAY_TIME = 120 # flim muze byt spusten s maximalnim spozdenim n minut
 RESTART_DELAY = 120 # po ukonceni se client restartuje za n sekund
 
+DEFAULT_CONFIG = {
+                    "room": "IVT1",
+                    "current_day": 0,
+                    "media_folder": "media/",
+                    "server": "https://apf.jsnsgekom.cz",
+                    "filenames": [],
+                    "program": {},
+                    "schledule": {}
+                }
+
 def current_time() -> datetime:
     return datetime.now().time()
 
@@ -20,27 +30,11 @@ class App:
             self.load_config()
             if not self.validate_config():
                 self.log('Config file invalid - using default config')
-                self.config = {
-                    "room": "IVT1",
-                    "current_day": 0,
-                    "media_folder": "media/",
-                    "server": "http://127.0.0.1:9864",
-                    "filenames": [],
-                    "program": {},
-                    "schledule": {}
-                }
+                self.config = DEFAULT_CONFIG
                 self.write_config()
         except FileNotFoundError as e:
             self.log('No config file found - using default config')
-            self.config = {
-                "room": "IVT1",
-                "current_day": 0,
-                "media_folder": "media/",
-                "server": "http://127.0.0.1:9864",
-                "filenames": [],
-                "program": {},
-                "schledule": {}
-            }
+            self.config = DEFAULT_CONFIG
             self.write_config()
 
     def validate_config(self) -> bool:

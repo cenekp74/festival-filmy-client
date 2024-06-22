@@ -7,3 +7,5 @@ dist
 app.spec
 log.txt
 venv
+log.txt
+config.json
