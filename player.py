@@ -22,6 +22,9 @@ def play_video_multiproc(filename) -> multiprocessing.Process:
 
 
 def focus_to_window(window_title):
+    """
+    funkce, ktera vynuti okno s danym nazvem do popredi
+    """
     windows = gw.getWindowsWithTitle(window_title)
     if len(windows) > 0:
         window = windows[0]      
