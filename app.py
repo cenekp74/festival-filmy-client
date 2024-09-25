@@ -9,7 +9,7 @@ import multiprocessing
 
 REPORT_TIME_INTERVAL = 60 # client reportuje stav na server kazdych n sekund
 MAX_DELAY_TIME = 120 # flim muze byt spusten s maximalnim spozdenim n minut
-RESTART_DELAY = 120 # po ukonceni se client restartuje za n sekund
+RESTART_DELAY = 3600 # po ukonceni se client restartuje za n sekund
 
 DEFAULT_CONFIG = {
                     "room": "IVT1",
@@ -224,7 +224,9 @@ def main():
         main()
         quit()
     app.send_msg(f'Finished running app - starting again in {RESTART_DELAY}s')
+    screensaver_proc = start_screensaver_multiproc(f'{app.config["server"]}/screensaver/{app.config["room"]}')
     time.sleep(RESTART_DELAY)
+    screensaver_proc.kill()
     main()
 
 if __name__ == '__main__':
