@@ -7,15 +7,14 @@ import os
 from screensaver import start_screensaver_multiproc
 import multiprocessing
 
-REPORT_TIME_INTERVAL = 60 # client reportuje stav na server kazdych n sekund
-MAX_DELAY_TIME = 120 # flim muze byt spusten s maximalnim spozdenim n minut
-RESTART_DELAY = 3600 # po ukonceni se client restartuje za n sekund
-
 DEFAULT_CONFIG = {
-                    "room": "IVT1",
+                    "room": "I",
                     "current_day": 0,
                     "media_folder": "media/",
                     "server": "https://apf.jsnsgekom.cz",
+                    "report_time_interval": 60, # client reportuje stav na server kazdych n sekund
+                    "max_delay_time": 30, # flim muze byt spusten s maximalnim spozdenim n minut
+                    "restart_delay": 3600, # po ukonceni se client restartuje za n sekund
                     "filenames": [],
                     "program": {},
                     "schledule": {}
@@ -116,7 +115,7 @@ class App:
         start_time = time.time()
         while proc.is_alive():
             t = time.time()
-            if (t-start_time) >= REPORT_TIME_INTERVAL:
+            if (t-start_time) >= self.config["report_time_interval"]:
                 start_time = time.time()
                 self.send_msg(f'Playing {filename}')
 
@@ -159,7 +158,7 @@ class App:
             playback_start_time = datetime.strptime(time_str, "%H:%M").time()
             if now > playback_start_time:
                 # pokud je spozdeni delsi nez max delay time, skipuju tenhle film a cekam na dalsi
-                if (timedelta(hours=now.hour, minutes=now.minute) - timedelta(hours=playback_start_time.hour, minutes=playback_start_time.minute)) > timedelta(minutes=MAX_DELAY_TIME):
+                if (timedelta(hours=now.hour, minutes=now.minute) - timedelta(hours=playback_start_time.hour, minutes=playback_start_time.minute)) > timedelta(minutes=self.config["max_delay_time"]):
                     self.send_msg(f'Started after {time_str} - skipping {filename}')
                     continue
                 else:
@@ -174,7 +173,7 @@ class App:
                 while now < playback_start_time: # wait for desired time
                     now = current_time()
                     t = time.time()
-                    if (t-start_time) >= REPORT_TIME_INTERVAL:
+                    if (t-start_time) >= self.config["report_time_interval"]:
                         start_time = time.time()
                         self.send_msg(f'Waiting for {time_str} to play {filename}')
                 screensaver_proc.kill()
@@ -229,9 +228,9 @@ def main():
         time.sleep(3)
         main()
         quit()
-    app.send_msg(f'Finished running app - starting again in {RESTART_DELAY}s')
+    app.send_msg(f'Finished running app - starting again in {app.config["restart_delay"]}s')
     screensaver_proc = start_screensaver_multiproc(f'{app.config["server"]}/screensaver/{app.config["room"]}')
-    time.sleep(RESTART_DELAY)
+    time.sleep(app.config["restart_delay"])
     screensaver_proc.kill()
     main()
 
