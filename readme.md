@@ -1,8 +1,8 @@
 Klient k systému automatického pouštění filmů (apf) na festivalu JSNO (jsno.cz). 
 
-Soubory jsou pouštěny pomocí VLC (python-vlc). Je třeba mít nainstalovanou 64-bitovou verzi. Po spuštění filmu je okno automaticky nastaveno do popředí (pomocí pygetwindow) Mezi filmama se pouští spořic obrazovky - načte se stránka `/screensaver/<room>` na serveru (pomocí webview). Na stránce je zvuk, ten se ale nemůže spustit bez user interakce - proto je po spuštění webview simulován stist klávesy (pomocí pywinauto). 
+Soubory jsou pouštěny pomocí VLC (python-vlc). Je třeba mít nainstalovanou 64-bitovou verzi. Po spuštění filmu je okno automaticky nastaveno do popředí (pomocí pygetwindow) Mezi filmama se pouští spořic obrazovky - načte se stránka `/screensaver/<room>` na serveru (pomocí portable firefoxu - MUSÍ BÝT VE SLOŽCE FIREFOX - VIZ RELEASE). Na stránce je zvuk, ten se ale nemůže spustit bez user interakce - proto je po spuštění firefoxu simulován stist klávesy (pomocí pywinauto). 
 
-Proč python? Python jsem si vybral zejména kvůli tomu, že má dobrou knihovnu pro propojení s vlc, což se mi zdá spolehlivější než používat méně otesovaný knihovny na přehrávání videí např. v rustu / C. Taky zbožňuju knihovnu requests. Další důvod je snadné ovládání počítače pomocí pywinauto a snadná simulace prohlížeče pomocí webview. 
+Proč python? Python jsem si vybral zejména kvůli tomu, že má dobrou knihovnu pro propojení s vlc, což se mi zdá spolehlivější než používat méně otesovaný knihovny na přehrávání videí např. v rustu / C. Taky zbožňuju knihovnu requests. Další důvod je snadné ovládání počítače pomocí pywinauto. 
 
 ## logika
 - start

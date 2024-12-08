@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import time
 from player import play_video_multiproc
 import os
-from screensaver import start_screensaver_multiproc
+from screensaver import start_screensaver
 import multiprocessing
 
 DEFAULT_CONFIG = {
@@ -167,7 +167,7 @@ class App:
                     self.send_msg(f'Finished playback: {filename}')
 
             elif now <= playback_start_time:
-                screensaver_proc = start_screensaver_multiproc(f'{self.config["server"]}/screensaver/{self.config["room"]}')
+                start_screensaver(f'{self.config["server"]}/screensaver/{self.config["room"]}')
                 start_time = time.time()
                 self.send_msg(f'Waiting for {time_str} to play {filename}')
                 while now < playback_start_time: # wait for desired time
@@ -176,7 +176,7 @@ class App:
                     if (t-start_time) >= self.config["report_time_interval"]:
                         start_time = time.time()
                         self.send_msg(f'Waiting for {time_str} to play {filename}')
-                screensaver_proc.kill()
+                os.system("taskkill -f -im firefox.exe")
                 self.send_msg(f'Starting playback: {filename}')
                 self.play(filename)
                 self.send_msg(f'Finished playback: {filename}')
@@ -229,9 +229,9 @@ def main():
         main()
         quit()
     app.send_msg(f'Finished running app - starting again in {app.config["restart_delay"]}s')
-    screensaver_proc = start_screensaver_multiproc(f'{app.config["server"]}/screensaver/{app.config["room"]}')
+    start_screensaver(f'{app.config["server"]}/screensaver/{app.config["room"]}')
     time.sleep(app.config["restart_delay"])
-    screensaver_proc.kill()
+    os.system("taskkill -f -im firefox.exe")
     main()
 
 if __name__ == '__main__':
