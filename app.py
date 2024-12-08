@@ -8,10 +8,11 @@ from screensaver import start_screensaver_multiproc
 import multiprocessing
 
 DEFAULT_CONFIG = {
-                    "room": "I",
+                    "room": "III",
                     "current_day": 0,
                     "media_folder": "media/",
                     "server": "https://apf.jsnsgekom.cz",
+                    "secondary_server": "https://apf2.jsnsgekom.cz",
                     "report_time_interval": 60, # client reportuje stav na server kazdych n sekund
                     "max_delay_time": 30, # flim muze byt spusten s maximalnim spozdenim n minut
                     "restart_delay": 3600, # po ukonceni se client restartuje za n sekund
@@ -66,6 +67,11 @@ class App:
                 return False
         except:
             self.log(f'Sending message ({msg}) failed - server offline')
+            self.log(f'Sending msg to secondary server')
+            try: 
+                _response = requests.post(f'{self.config["secondary_server"]}/client/{self.config["room"]}/msg', data=msg)
+            except:
+                self.log('Sending msg to secondary server failed - server offline')
             return False
         
     def get_program(self) -> bool:
@@ -184,7 +190,14 @@ class App:
 
     def start(self):
         self.log('START')
-        self.send_msg('Starting')
+        if not self.send_msg('Starting'):
+            self.config["server"], self.config["secondary_server"] = self.config["secondary_server"], self.config["server"]
+            self.log(f"Switching to secondary server ({self.config["server"]})")
+            if not self.send_msg('Starting - secondary server attempt'):
+                self.config["server"], self.config["secondary_server"] = self.config["secondary_server"], self.config["server"]
+                self.log("both servers unavailable")
+            self.write_config()
+
         if self.get_program():
             self.send_msg('Fetched program')
         else:
