@@ -20,3 +20,8 @@ def start_screensaver(url):
     thread.start()
     os.system("taskkill -f -im firefox.exe")
     os.system(f"firefox\FirefoxPortable.exe --kiosk {url} -foreground")
+
+def start_screensaver_multiproc(url):
+    proc = multiprocessing.Process(target=start_screensaver , args=(url,))
+    proc.start()
+    return proc
