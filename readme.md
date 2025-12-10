@@ -7,14 +7,14 @@ Proč python? Python jsem si vybral zejména kvůli tomu, že má dobrou knihovn
 ## logika
 - start
 - pokus o fetchnuti programu - pokud je uspesny ulozi se do config
-- pokud neni v config ani program ani schledule, ceka 10s a pak restartuje
-- pokus o vytvoreni schledule - pokud failne, znamena to ze neexistuje program a tudiz uz musi existovat schledule
+- pokud neni v config ani program ani schedule, ceka 10s a pak restartuje
+- pokus o vytvoreni schedule - pokud failne, znamena to ze neexistuje program a tudiz uz musi existovat schedule
 - pokus o ziskani current day - pokud failne beru ten z config.py
 - pokud current day neni 0, kontroluju pritomnost souboru a pousitim filmy (fce run())
 - po dokonceni fce run ceka restart_delay sekund a pak se restartuje
 
 ### behavior fce run
-- loopuje schledule
+- loopuje schedule
 - pokud je cas vetsi nez cas kdy se mel spustit dany film o vic nez max_delay_time minut, ceka na dalsi cas
 - pokud je cas vetsi nez cas kdy se mel spustit film o min nez max_delay_time minut, spusti film i tak
 - pokud je cas mensi, pusti screensaver a ceka

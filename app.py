@@ -18,7 +18,7 @@ DEFAULT_CONFIG = {
                     "restart_delay": 3600, # po ukonceni se client restartuje za n sekund
                     "filenames": [],
                     "program": {},
-                    "schledule": {}
+                    "schedule": {}
                 }
 
 def current_time() -> datetime:
@@ -39,7 +39,7 @@ class App:
 
     def validate_config(self) -> bool:
         keys = self.config.keys()
-        for k in ["room", "current_day", "media_folder", "server", "filenames", "program", "schledule"]:
+        for k in ["room", "current_day", "media_folder", "server", "filenames", "program", "schedule"]:
             if k not in keys:
                 return False
         return True
@@ -87,15 +87,15 @@ class App:
             self.log('Fetching program failed - server offline')
             return False
         
-    def create_schledule(self) -> bool:
+    def create_schedule(self) -> bool:
         if not self.config["program"]: return False
-        schledule = {}
+        schedule = {}
         for day in ['1', '2', '3']:
-            schledule[day] = []
+            schedule[day] = []
             for film in self.config["program"][day]:
-                schledule[day].append((film["time_from"], film["filename"]))
-            schledule[day] = sorted(schledule[day], key=lambda x: x[0])
-        self.config["schledule"] = schledule
+                schedule[day].append((film["time_from"], film["filename"]))
+            schedule[day] = sorted(schedule[day], key=lambda x: x[0])
+        self.config["schedule"] = schedule
         self.write_config()
         return True
     
@@ -127,17 +127,17 @@ class App:
 
     def check_files(self):
         """
-        funkce na kontrolu toho, ze vsechny media soubory ve schledule existuji v media_folder
+        funkce na kontrolu toho, ze vsechny media soubory ve schedule existuji v media_folder
         
         vraci list chybejicich filenames - pokud nic nechybi, vraci []
         """
-        if not self.config["schledule"]: return 'Schledule not created'
+        if not self.config["schedule"]: return 'schedule not created'
 
-        if not os.path.exists(self.config["media_folder"]): # if media folder doesnt exist, return all media files in schledule
+        if not os.path.exists(self.config["media_folder"]): # if media folder doesnt exist, return all media files in schedule
             self.log(f'Media folder does not exist ({self.config["media_folder"]})')
             files_misssing = []
-            for _day, schledule in self.config["schledule"].items():
-                for _time, filename in schledule:
+            for _day, schedule in self.config["schedule"].items():
+                for _time, filename in schedule:
                     if filename is None:
                         files_misssing.append('None')
                         continue
@@ -146,8 +146,8 @@ class App:
         
         media_files = list(os.listdir(self.config["media_folder"]))
         files_misssing = []
-        for _day, schledule in self.config["schledule"].items():
-            for _time, filename in schledule:
+        for _day, schedule in self.config["schedule"].items():
+            for _time, filename in schedule:
                 if filename not in media_files:
                     if filename is None:
                         files_misssing.append('None')
@@ -159,7 +159,7 @@ class App:
         """
         funkce na pousteni filmu - ocekava vsechny soubory v media_folder
         """
-        for time_str, filename in self.config["schledule"][str(self.config["current_day"])]:
+        for time_str, filename in self.config["schedule"][str(self.config["current_day"])]:
             now = current_time()
             playback_start_time = datetime.strptime(time_str, "%H:%M").time()
             if now > playback_start_time:
@@ -201,15 +201,15 @@ class App:
         if self.get_program():
             self.send_msg('Fetched program')
         else:
-            if not self.config["schledule"] and not self.config["program"]:
-                self.log('No progam or schledule - restarting in 10s')
+            if not self.config["schedule"] and not self.config["program"]:
+                self.log('No progam or schedule - restarting in 10s')
                 time.sleep(10)
                 main()
                 quit()
             else:
-                self.log('Continuing using locally saved program/schledule')
-        if self.create_schledule():
-            self.send_msg('Schledule created')
+                self.log('Continuing using locally saved program/schedule')
+        if self.create_schedule():
+            self.send_msg('schedule created')
         if self.get_current_day():
             self.send_msg('Fetched current day')
         self.send_msg(f'Continuing with day: {self.config["current_day"]}')
