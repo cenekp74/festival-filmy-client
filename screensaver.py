@@ -5,7 +5,7 @@ import threading
 from pywinauto.keyboard import send_keys
 from player import focus_to_window
 
-def wait_and_send_key(delay=5, key="a"):
+def wait_and_send_key(delay=10, key="a"):
     time.sleep(delay)
     send_keys(key)
 
